@@ -29,6 +29,10 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	}
 
 	public void run(String... args) {
+
+		recipeRepository.deleteAll();
+		conversationRepository.deleteAll();
+
 		Recipe recipe = new Recipe(
 				"1",
 				"Fish and Chips",
@@ -41,11 +45,23 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 				"http://example.com/fish-and-chips.jpg"
 		);
 		recipeRepository.save(recipe);
+		recipe = new Recipe(
+				"2",
+				"Roast Beef",
+				"A British Classic",
+				List.of("Beef"),
+				List.of("Roast the beef"),
+				"British",
+				Category.DINNER,
+				List.of("classic", "British"),
+				"http://example.com/roast-beef.jpg"
+		);
+		recipeRepository.save(recipe);
 		recipeRepository.findAll().forEach(System.out::println);
 
 
 		Conversation conversation = new Conversation(
-				"id",
+				"1",
 				recipe.id(),
 				List.of(new ChatMessage("Hello", recipe.id(), LocalDateTime.now()))
 		);

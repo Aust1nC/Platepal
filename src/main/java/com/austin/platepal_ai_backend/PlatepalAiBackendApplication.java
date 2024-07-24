@@ -45,7 +45,7 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 				"http://example.com/fish-and-chips.jpg"
 		);
 		recipeRepository.save(recipe);
-		recipe = new Recipe(
+		Recipe recipe2 = new Recipe(
 				"2",
 				"Roast Beef",
 				"A British Classic",
@@ -56,7 +56,7 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 				List.of("classic", "British"),
 				"http://example.com/roast-beef.jpg"
 		);
-		recipeRepository.save(recipe);
+		recipeRepository.save(recipe2);
 		recipeRepository.findAll().forEach(System.out::println);
 
 

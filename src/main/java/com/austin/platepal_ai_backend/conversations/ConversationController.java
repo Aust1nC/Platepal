@@ -21,6 +21,16 @@ public class ConversationController {
         this.recipeRepository = recipeRepository;
     }
 
+    @GetMapping("/conversations/{conversationId}")
+    public Conversation getConversation(@PathVariable("conversationId") String conversationId) {
+        return conversationRepository.findById(conversationId)
+                .orElseThrow(() -> new ResponseStatusException(
+                        HttpStatus.NOT_FOUND,
+                        "Unable to find conversation with the ID " + conversationId)
+                );
+    }
+
+
     @PostMapping("/conversations")
     public Conversation createNewConversation(@RequestBody CreateConversationRequest request) {
 

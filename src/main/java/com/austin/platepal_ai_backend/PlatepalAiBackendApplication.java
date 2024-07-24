@@ -1,7 +1,5 @@
 package com.austin.platepal_ai_backend;
 
-import com.austin.platepal_ai_backend.conversations.ChatMessage;
-import com.austin.platepal_ai_backend.conversations.Conversation;
 import com.austin.platepal_ai_backend.conversations.ConversationRepository;
 import com.austin.platepal_ai_backend.recipes.Category;
 import com.austin.platepal_ai_backend.recipes.Recipe;
@@ -11,7 +9,6 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.time.LocalDateTime;
 import java.util.List;
 
 @SpringBootApplication
@@ -59,15 +56,6 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 		recipeRepository.save(recipe2);
 		recipeRepository.findAll().forEach(System.out::println);
 
-
-		Conversation conversation = new Conversation(
-				"1",
-				recipe.id(),
-				List.of(new ChatMessage("Hello", recipe.id(), LocalDateTime.now()))
-		);
-
-		conversationRepository.save(conversation);
-		conversationRepository.findAll().forEach(System.out::println);
 	}
 
 }

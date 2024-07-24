@@ -1,10 +1,10 @@
-package com.austin.platpal_ai_backend;
+package com.austin.platepal_ai_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PlatpalAiBackendApplicationTests {
+class PlatepalAiBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

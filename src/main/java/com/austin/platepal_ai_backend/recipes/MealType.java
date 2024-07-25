@@ -1,6 +1,6 @@
 package com.austin.platepal_ai_backend.recipes;
 
-public enum Category {
+public enum MealType {
     BREAKFASAT,
     LUNCH,
     DINNER,

@@ -1,9 +1,10 @@
 package com.austin.platepal_ai_backend;
 
 import com.austin.platepal_ai_backend.conversations.ConversationRepository;
-import com.austin.platepal_ai_backend.recipes.Category;
+import com.austin.platepal_ai_backend.recipes.MealType;
 import com.austin.platepal_ai_backend.recipes.Recipe;
 import com.austin.platepal_ai_backend.recipes.RecipeRepository;
+import org.springframework.ai.openai.OpenAiChatModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -20,12 +21,19 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	@Autowired
 	private ConversationRepository conversationRepository;
 
+	@Autowired
+	private OpenAiChatModel chatClient;
+
 	public static void main(String[] args) {
 
 		SpringApplication.run(PlatepalAiBackendApplication.class, args);
 	}
 
 	public void run(String... args) {
+
+//		String response = chatClient.call("Who is Austin?");
+//
+//		System.out.println(response);
 
 		recipeRepository.deleteAll();
 		conversationRepository.deleteAll();
@@ -37,7 +45,7 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 				List.of("Fish", "Potato"),
 				List.of("Fried Fish", "Fried Potato"),
 				"British",
-				Category.DINNER,
+				MealType.DINNER,
 				List.of("classic", "fried", "British"),
 				"http://example.com/fish-and-chips.jpg"
 		);
@@ -49,7 +57,7 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 				List.of("Beef"),
 				List.of("Roast the beef"),
 				"British",
-				Category.DINNER,
+				MealType.DINNER,
 				List.of("classic", "British"),
 				"http://example.com/roast-beef.jpg"
 		);

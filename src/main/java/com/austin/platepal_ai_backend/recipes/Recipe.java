@@ -9,9 +9,7 @@ public record Recipe(
         List<String> ingredients,
         List<String> instructions,
         String cuisine,
-        Category category,
-        List<String> tags,
+        MealType mealType,
+        List<String> cookingTime,
         String imageUrl
-) {
-
-}
+) {}

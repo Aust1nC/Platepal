@@ -3,6 +3,7 @@ package com.austin.platepal_ai_backend;
 import com.austin.platepal_ai_backend.conversations.ConversationRepository;
 import com.austin.platepal_ai_backend.recipes.MealType;
 import com.austin.platepal_ai_backend.recipes.Recipe;
+import com.austin.platepal_ai_backend.recipes.RecipeCreationService;
 import com.austin.platepal_ai_backend.recipes.RecipeRepository;
 import org.springframework.ai.openai.OpenAiChatModel;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,13 +25,21 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	@Autowired
 	private OpenAiChatModel chatClient;
 
+	@Autowired
+	private RecipeCreationService recipeCreationService;
+
+
 	public static void main(String[] args) {
 
 		SpringApplication.run(PlatepalAiBackendApplication.class, args);
 	}
 
 	public void run(String... args) {
-		// TODO: Fix the environment variable for the OpenAI API Key
+
+		this.recipeCreationService.createRecipes(1);
+
+//		System.out.println(System.getenv("SPRING_AI_OPENAI_API_KEY"));
+//
 //		String response = chatClient.call("Who is Austin?");
 //
 //		System.out.println(response);

@@ -30,7 +30,7 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	}
 
 	public void run(String... args) {
-
+		// TODO: Fix the environment variable for the OpenAI API Key
 //		String response = chatClient.call("Who is Austin?");
 //
 //		System.out.println(response);

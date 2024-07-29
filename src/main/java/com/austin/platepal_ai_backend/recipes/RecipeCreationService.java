@@ -107,7 +107,12 @@ public class RecipeCreationService {
                 new FileReader(RECIPES_FILE_PATH),
                 new TypeToken<ArrayList<Recipe>>() {}.getType()
         );
+        if (existingRecipes == null) {
+            existingRecipes = new ArrayList<>();
+        }
+
         generatedRecipes.addAll(existingRecipes);
+
         List<Recipe> recipesWithImages = new ArrayList<>();
         for (Recipe recipe : generatedRecipes) {
             if (recipe.imageUrl() == null || recipe.imageUrl().isEmpty()) {

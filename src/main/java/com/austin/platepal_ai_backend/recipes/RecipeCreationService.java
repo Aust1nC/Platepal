@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Description;
 import org.springframework.stereotype.Service;
 
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -31,6 +32,10 @@ public class RecipeCreationService {
 
     private static final String STABILITY_KEY = System.getenv("STABILITY_API_KEY");
 
+    private static final String API_NINJA_BASE_URL = System.getenv("API_NINJAS_URL");
+
+    private static final String API_NINJAS_KEY = System.getenv("API_NINJAS_KEY");
+
     private OpenAiChatModel chatClient;
 
     private HttpClient httpClient;
@@ -47,18 +52,145 @@ public class RecipeCreationService {
         this.httpClient = HttpClient.newHttpClient();
     }
 
-    public static <T> T getRandomElement(List<T> list) {
+    private static <T> T getRandomElement(List<T> list) {
         return list.get(ThreadLocalRandom.current().nextInt(list.size()));
+    }
+
+    public void fetchRawRecipes(String cuisineType) {
+        try {
+            HttpRequest request = HttpRequest.newBuilder()
+                    .uri(URI.create(API_NINJA_BASE_URL + "?query=" + cuisineType))
+                    .header("Accept", "application/json")
+                    .header("x-api-key", API_NINJAS_KEY)
+                    .build();
+
+            HttpResponse<String> response = this.httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+
+            System.out.println("Fetched cuisine " + cuisineType);
+
+            Gson gson = new Gson();
+            List<RawRecipe> rawRecipes = gson.fromJson(response.body(),
+                    new TypeToken<List<RawRecipe>>() {}.getType());
+
+            List<Recipe> newRecipes = new ArrayList<>();
+
+            for (RawRecipe raw: rawRecipes) {
+                newRecipes.add(mapRawRecipeToRecipe(raw, cuisineType));
+            }
+
+            saveRecipesToJsonFile(newRecipes);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void saveRecipesToJsonFile(List<Recipe> newRecipes) {
+        try {
+            Gson gson = new Gson();
+            List<Recipe> existingRecipes = gson.fromJson(
+                    new FileReader(RECIPES_FILE_PATH),
+                    new TypeToken<ArrayList<Recipe>>() {}.getType()
+            );
+            if (existingRecipes == null) {
+                existingRecipes = new ArrayList<>();
+            }
+
+            // Create a set to track recipe names to prevent duplicates
+            Set<String> recipeNames = new HashSet<>();
+
+            for (Recipe recipe : existingRecipes) {
+                recipeNames.add(recipe.name().toLowerCase());
+            }
+
+            // Add new recipes if their names are not already in the set
+            for (Recipe newRecipe : newRecipes) {
+                if (!recipeNames.contains(newRecipe.name().toLowerCase())) {
+                    existingRecipes.add(newRecipe);
+                    // Update the set with the new recipe name
+                    recipeNames.add(newRecipe.name().toLowerCase());
+                }
+            }
+
+//            System.out.println(existingRecipes);
+
+            List<Recipe> recipesWithMealTypeAndDescription = new ArrayList<>();
+            for (Recipe recipe : existingRecipes) {
+                Recipe updatedRecipe;
+                if (recipe.description() == null || recipe.description().isEmpty()
+                        || recipe.type() == null || recipe.type().isEmpty()) {
+                    updatedRecipe = generateRecipeDescriptionAndType(recipe);
+                } else {
+                    updatedRecipe = recipe;
+                }
+                recipesWithMealTypeAndDescription.add(updatedRecipe);
+            }
+
+            System.out.println("Saving to JSON");
+
+            FileWriter fileWriter = new FileWriter(RECIPES_FILE_PATH);
+            fileWriter.write(gson.toJson(recipesWithMealTypeAndDescription));
+            fileWriter.close();
+
+            System.out.println("Finished");
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private Recipe generateRecipeDescriptionAndType(Recipe recipe) {
+        String prompt = "Recipe: " + recipe.name() + "\n" + "Ingredients: " + recipe.ingredients() + "\n"
+                + "Instructions: " + recipe.instructions() + "\n\n" + "Please provide a description and identify " +
+                "the type of meal (e.g., breakfast, lunch, dinner, snack) for this recipe. The response should " +
+                "follow the below format: " + "\n" + "Type of Meal: " + "\n" + "Description:";
+
+        ChatResponse response = chatClient.call(new Prompt(
+                prompt,
+                OpenAiChatOptions.builder().withFunction("saveRecipe").build()
+        ));
+        String content = response.getResult().getOutput().getContent();
+
+        String mealType = extractOpenAIResponse(content, "Type of Meal:");
+        String mealDescription = extractOpenAIResponse(content, "Description:");
+
+        return new Recipe(
+                recipe.id(),
+                recipe.name(),
+                mealDescription,
+                recipe.ingredients(),
+                recipe.instructions(),
+                mealType,
+                recipe.cuisine(),
+                recipe.servings(),
+                recipe.imageUrl()
+        );
+    }
+
+    private String extractOpenAIResponse(String content, String field) {
+        int startIndex = content.indexOf(field) + field.length();
+        int endIndex = content.indexOf("\n", startIndex);
+        if (endIndex == -1) {
+            endIndex = content.length();
+        }
+        return content.substring(startIndex, endIndex).trim();
+    }
+
+    public Recipe mapRawRecipeToRecipe(RawRecipe raw, String cuisine) {
+        String id = "";
+        String name = raw.getTitle();
+        String description = "";
+        List<String> ingredients = Arrays.asList(raw.getIngredients().split("\\|"));
+        List<String> instructions = Arrays.asList(raw.getInstructions().split("\\."));
+        String type = "";
+        String servings = raw.getServings();
+        String imageUrl = "";
+
+        return new Recipe(id, name, description, ingredients, instructions, type, cuisine, servings, imageUrl);
     }
 
 
     public void createRecipes(int numberOfRecipes) {
-        List<MealType> mealTypes = List.of(
-                MealType.BREAKFASAT, MealType.LUNCH, MealType.DINNER, MealType.DESSERT, MealType.SNACK
-        );
-        List<String> cookingTimes = List.of(
-                "Under 30 Minutes", "Quick and Easy", "One-Pot", "Make-Ahead"
-        );
         List<String> ingredientsPool = List.of(
                 "Chicken", "Beef", "Pork",
                 "Fish", "Pasta", "Rice",
@@ -73,8 +205,6 @@ public class RecipeCreationService {
         );
 
         while (this.generatedRecipes.size() < numberOfRecipes) {
-            MealType mealType = getRandomElement(mealTypes);
-            String cookingTime = getRandomElement(cookingTimes);
             String cuisine = getRandomElement(cuisines);
             Set<String> ingredients = new HashSet<>();
 
@@ -85,8 +215,7 @@ public class RecipeCreationService {
                 ingredients.add(getRandomElement(ingredientsPool));
             }
 
-            String prompt = "Create a recipe for a " + cuisine + " (" + mealType
-                    + ") that can be prepared in " + cookingTime + ". The ingredients include: " +
+            String prompt = "Create a recipe for a " + cuisine + ". The ingredients include: " +
                     String.join(", ", ingredients) + ". Include the recipe name, description, " +
                     "exact spices and herbs if used, " + "and detailed instructions.";
 
@@ -138,8 +267,8 @@ public class RecipeCreationService {
                 recipe.ingredients(),
                 recipe.instructions(),
                 recipe.cuisine(),
-                recipe.mealType(),
-                recipe.cookingTime(),
+                recipe.servings(),
+                recipe.type(),
                 uuid + ".jpg"
         );
 

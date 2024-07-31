@@ -1,10 +1,11 @@
 package com.austin.platepal_ai_backend;
 
 import com.austin.platepal_ai_backend.conversations.ConversationRepository;
-import com.austin.platepal_ai_backend.recipes.MealType;
-import com.austin.platepal_ai_backend.recipes.Recipe;
-import com.austin.platepal_ai_backend.recipes.RecipeCreationService;
-import com.austin.platepal_ai_backend.recipes.RecipeRepository;
+import com.austin.platepal_ai_backend.recipes.*;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import org.springframework.ai.openai.OpenAiChatModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -19,10 +20,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.UUID;
+import java.util.*;
 
 @SpringBootApplication
 public class PlatepalAiBackendApplication implements CommandLineRunner {
@@ -42,57 +40,30 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	private static final String BASE_URL = "https://api.stability.ai/v2beta/stable-image/generate/core";
 	private static final String KEY = System.getenv("STABILITY_API_KEY");
 
+	private static final String API_NINJA_URL = "https://api.api-ninjas.com/v1/recipe";
+	private static final String API_NINJAS_KEY = System.getenv("API_NINJAS_KEY");
+
+
 	public static void main(String[] args) {
 
 		SpringApplication.run(PlatepalAiBackendApplication.class, args);
 	}
 
 	public void run(String... args) {
+		List<String> cuisines = List.of(
+				"Italian", "Greek", "French", "Indian",
+				"Mexican", "Thai", "Spanish", "Filipino",
+				"Chinese", "Japanese", "Vietnamese", "Korean",
+				"Turkish", "Malaysian", "Brazilian", "American"
+		);
 
-//		try {
-//			String prompt = "Lighthouse on a cliff overlooking the ocean";
-//			String outputFormat = "jpeg";
-//
-//			String boundary = UUID.randomUUID().toString();
-//			String lineSeparator = "\r\n";
-//
-//			// Create the multipart form-data body
-//			StringBuilder formData = new StringBuilder();
-//			formData.append("--").append(boundary).append(lineSeparator)
-//					.append("Content-Disposition: form-data; name=\"prompt\"").append(lineSeparator)
-//					.append(lineSeparator)
-//					.append(prompt).append(lineSeparator)
-//					.append("--").append(boundary).append(lineSeparator)
-//					.append("Content-Disposition: form-data; name=\"output_format\"").append(lineSeparator)
-//					.append(lineSeparator)
-//					.append(outputFormat).append(lineSeparator)
-//					.append("--").append(boundary).append("--").append(lineSeparator);
-//
-//
-//			HttpClient client = HttpClient.newHttpClient();
-//			HttpRequest request = HttpRequest.newBuilder()
-//					.uri(URI.create(BASE_URL))
-//					.header("Authorization", "Bearer " + KEY)
-//					.header("Accept", "image/*")
-//					.header("Content-Type", "multipart/form-data; boundary=" + boundary)
-//					.POST(HttpRequest.BodyPublishers.ofString(formData.toString()))
-//					.build();
-//
-//			HttpResponse<byte[]> response = client.send(request, HttpResponse.BodyHandlers.ofByteArray());
-//
-//			if (response.statusCode() == 200) {
-//				Files.write(Paths.get("src/main/resources/recipeImages/lighthouse.jpeg"), response.body());
-//				System.out.println("Image saved successfully.");
-//			} else {
-//				System.err.println("Error: " + response.statusCode() + ": " + new String(response.body()));
-//			}
-//
-//		} catch (Exception e) {
-//			e.printStackTrace();;
-//		}
+		for (String cuisine : cuisines) {
+			this.recipeCreationService.fetchRawRecipes(cuisine);
+		}
 
 
-		this.recipeCreationService.createRecipes(1);
+
+//		this.recipeCreationService.createRecipes(1);
 
 
 //		recipeRepository.deleteAll();
@@ -125,5 +96,7 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 //		recipeRepository.findAll().forEach(System.out::println);
 
 	}
+
+
 
 }

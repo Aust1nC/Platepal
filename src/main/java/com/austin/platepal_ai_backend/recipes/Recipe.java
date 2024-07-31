@@ -8,8 +8,8 @@ public record Recipe(
         String description,
         List<String> ingredients,
         List<String> instructions,
+        String type,
         String cuisine,
-        MealType mealType,
-        List<String> cookingTime,
+        String servings,
         String imageUrl
 ) {}

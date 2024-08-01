@@ -43,6 +43,8 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	private static final String API_NINJA_URL = "https://api.api-ninjas.com/v1/recipe";
 	private static final String API_NINJAS_KEY = System.getenv("API_NINJAS_KEY");
 
+	private static final String RECIPES_FILE_PATH = "recipes.json";
+
 
 	public static void main(String[] args) {
 
@@ -50,16 +52,19 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	}
 
 	public void run(String... args) {
-		List<String> cuisines = List.of(
-				"Italian", "Greek", "French", "Indian",
-				"Mexican", "Thai", "Spanish", "Filipino",
-				"Chinese", "Japanese", "Vietnamese", "Korean",
-				"Turkish", "Malaysian", "Brazilian", "American"
-		);
+//		List<String> cuisines = List.of(
+//				"Italian", "Greek", "French", "Indian",
+//				"Mexican", "Thai", "Spanish", "Filipino",
+//				"Chinese", "Japanese", "Vietnamese", "Korean",
+//				"Turkish", "Malaysian", "Brazilian", "American"
+//		);
+//
+//		for (String cuisine : cuisines) {
+//			this.recipeCreationService.fetchRawRecipes(cuisine);
+//		}
+		List<Recipe> emptyRecipeList = new ArrayList<>();
 
-		for (String cuisine : cuisines) {
-			this.recipeCreationService.fetchRawRecipes(cuisine);
-		}
+		this.recipeCreationService.saveRecipesToJsonFile(emptyRecipeList);
 
 
 

@@ -85,7 +85,7 @@ public class RecipeCreationService {
         }
     }
 
-    private void saveRecipesToJsonFile(List<Recipe> newRecipes) {
+    public void saveRecipesToJsonFile(List<Recipe> newRecipes) {
         try {
             Gson gson = new Gson();
             List<Recipe> existingRecipes = gson.fromJson(
@@ -112,8 +112,6 @@ public class RecipeCreationService {
                 }
             }
 
-//            System.out.println(existingRecipes);
-
             List<Recipe> recipesWithMealTypeAndDescription = new ArrayList<>();
             for (Recipe recipe : existingRecipes) {
                 Recipe updatedRecipe;
@@ -126,10 +124,22 @@ public class RecipeCreationService {
                 recipesWithMealTypeAndDescription.add(updatedRecipe);
             }
 
+
+            List<Recipe> recipesWithImages = new ArrayList<>();
+            for (Recipe recipe: recipesWithMealTypeAndDescription) {
+                Recipe recipeWithImage;
+                if (recipe.imageUrl() == null || recipe.imageUrl().isEmpty()) {
+                    recipeWithImage = generateRecipeImage(recipe);
+                } else {
+                    recipeWithImage = recipe;
+                }
+                recipesWithImages.add(recipeWithImage);
+            }
+
             System.out.println("Saving to JSON");
 
             FileWriter fileWriter = new FileWriter(RECIPES_FILE_PATH);
-            fileWriter.write(gson.toJson(recipesWithMealTypeAndDescription));
+            fileWriter.write(gson.toJson(recipesWithImages));
             fileWriter.close();
 
             System.out.println("Finished");
@@ -154,6 +164,7 @@ public class RecipeCreationService {
         String mealType = extractOpenAIResponse(content, "Type of Meal:");
         String mealDescription = extractOpenAIResponse(content, "Description:");
 
+
         return new Recipe(
                 recipe.id(),
                 recipe.name(),
@@ -176,7 +187,7 @@ public class RecipeCreationService {
         return content.substring(startIndex, endIndex).trim();
     }
 
-    public Recipe mapRawRecipeToRecipe(RawRecipe raw, String cuisine) {
+    private Recipe mapRawRecipeToRecipe(RawRecipe raw, String cuisine) {
         String id = "";
         String name = raw.getTitle();
         String description = "";
@@ -266,15 +277,18 @@ public class RecipeCreationService {
                 recipe.description(),
                 recipe.ingredients(),
                 recipe.instructions(),
+                recipe.type(),
                 recipe.cuisine(),
                 recipe.servings(),
-                recipe.type(),
                 uuid + ".jpg"
         );
 
+        System.out.println("Recipe with image: " + recipe);
+
         try {
             String prompt = "Picture of a delicious " + recipe.name() + " with ingredients "
-                    + String.join(",", recipe.ingredients()) + ". Photorealistic texture and details," +
+                    + String.join(",", recipe.ingredients()) + ". Focus on the ingredients and plating." +
+                    " Photorealistic texture and details," +
                     "highly detailed, hyperrealistic, subsurface scattering, 4k DSLR, best quality, masterpiece.";
             String outputFormat = "jpeg";
             String boundary = UUID.randomUUID().toString();

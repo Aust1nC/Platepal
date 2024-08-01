@@ -1,7 +1,7 @@
 [
   {
-    "id": "",
-    "name": "Green Pak Choi (Chinese Cabbage) with Soya Sauce",
+    "id": "ccbe9963-08bd-4efb-b111-c2d480bea96c",
+    "name": "Green Pak Choi Stir fry (Chinese Cabbage) with Soya Sauce",
     "description": "This recipe for Green Pak Choi with Soya Sauce is a simple and flavorful side dish that pairs well with a variety of main dishes. The pak choi is stir-fried with garlic and soya sauce, creating a delicious and nutritious addition to your meal. Serve it hot as a tasty accompaniment to your favorite entrees.",
     "ingredients": [
       "1 lb Green pak choi",
@@ -19,10 +19,10 @@
     "type": "Side Dish",
     "cuisine": "chinese",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "ccbe9963-08bd-4efb-b111-c2d480bea96c.jpg"
   },
   {
-    "id": "",
+    "id": "7e025b8a-dfeb-4bec-ba76-58659c3cba2d",
     "name": "Hot and Sour Chinese Soup",
     "description": "Hot and Sour Chinese Soup is a traditional Chinese dish known for its bold flavors of sourness and spiciness. This soup is a perfect balance of tangy lemon juice, savory soy sauce, and aromatic mushrooms, creating a delightful and comforting meal, typically enjoyed during lunch.",
     "ingredients": [
@@ -49,10 +49,10 @@
     "type": "Lunch",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "7e025b8a-dfeb-4bec-ba76-58659c3cba2d.jpg"
   },
   {
-    "id": "",
+    "id": "de7db836-f5d0-4e01-9f7d-58e686156b28",
     "name": "Chicken with Chinese Mushrooms",
     "description": "This Chicken with Chinese Mushrooms recipe is a flavorful and savory dish that combines marinated chicken with a variety of vegetables and Chinese seasonings. It is a hearty and satisfying meal that is perfect for dinner, offering a balance of protein, vegetables, and rich flavors from the soy sauce, sesame oil, and Chinese spices.",
     "ingredients": [
@@ -98,10 +98,10 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "de7db836-f5d0-4e01-9f7d-58e686156b28.jpg"
   },
   {
-    "id": "",
+    "id": "4f98e5ce-7715-4315-8727-97a492318b1b",
     "name": "Chicken with Chinese Vegetables",
     "description": "A savory and flavorful dish combining tender chicken with a mix of Chinese vegetables, seasoned with soy sauce and chicken broth. This meal is perfect for dinner and pairs well with cooked rice or chow mein noodles.",
     "ingredients": [
@@ -128,10 +128,10 @@
     "type": "Main",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "4f98e5ce-7715-4315-8727-97a492318b1b.jpg"
   },
   {
-    "id": "",
+    "id": "c4373d3c-0566-4ee5-bc53-908d397a9eac",
     "name": "Chinese Barbecue Sauce - Char Sui",
     "description": "Chinese Barbecue Sauce, also known as Char Sui, is a flavorful and savory sauce that is perfect for marinating meats like pork or chicken. The combination of sherry, soy sauce, garlic, plum sauce, black bean paste, hoisin sauce, and Chinese 5-spice creates a complex and delicious flavor profile. This sauce is commonly used in Chinese cuisine to make char siu dishes, which are typically served as a main course for dinner.",
     "ingredients": [
@@ -152,10 +152,10 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "13 Servings",
-    "imageUrl": ""
+    "imageUrl": "c4373d3c-0566-4ee5-bc53-908d397a9eac.jpg"
   },
   {
-    "id": "",
+    "id": "0deb5ea9-9769-446d-a208-ef80eec1550b",
     "name": "Chinese Beef Jerky",
     "description": "Chinese Beef Jerky is a savory and flavorful snack made from thinly sliced beef marinated in a blend of soy sauce, sherry, garlic, ginger, red pepper, and sesame oil. The meat is dried to perfection, resulting in a delicious and chewy jerky that is perfect for snacking on the go or enjoying as a tasty treat.",
     "ingredients": [
@@ -185,10 +185,10 @@
     "type": "Snack",
     "cuisine": "chinese",
     "servings": "36 Pieces",
-    "imageUrl": ""
+    "imageUrl": "0deb5ea9-9769-446d-a208-ef80eec1550b.jpg"
   },
   {
-    "id": "",
+    "id": "216e618b-db6b-461e-82f6-e3dc4c8ed814",
     "name": "Chinese Chicken Pasta",
     "description": "Chinese Chicken Pasta is a flavorful and satisfying dish that combines tender chicken, earthy shiitake mushrooms, and nutritious spinach in a savory Asian-inspired sauce. This hearty pasta dish is perfect for a comforting dinner that is both delicious and easy to prepare.",
     "ingredients": [
@@ -217,10 +217,10 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "216e618b-db6b-461e-82f6-e3dc4c8ed814.jpg"
   },
   {
-    "id": "",
+    "id": "b13c9c58-0f2f-4ff0-bc3d-9d4e4100bf8c",
     "name": "Chinese Egg Rolls",
     "description": "Chinese Egg Rolls are a popular appetizer featuring a delicious filling of shrimp, pork, vegetables, and seasonings wrapped in a crispy egg roll skin. They are deep-fried to a golden brown, creating a crunchy exterior that contrasts perfectly with the savory and flavorful interior. These egg rolls are a classic favorite in Chinese cuisine and are enjoyed as a delightful starter before a main meal.",
     "ingredients": [
@@ -249,10 +249,10 @@
     "type": "Appetizer",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "b13c9c58-0f2f-4ff0-bc3d-9d4e4100bf8c.jpg"
   },
   {
-    "id": "",
+    "id": "f6255d87-79cf-4ef5-bedf-5fd6cf3aaf70",
     "name": "Chinese Egg Rolls: Skins [Large Qty]",
     "description": "Chinese Egg Rolls with homemade skins made from bread flour, eggs, salt, and water. The dough is rolled out and filled with a savory mixture before frying until crispy and golden brown. A popular Chinese appetizer or snack enjoyed for its crispy exterior and flavorful filling.",
     "ingredients": [
@@ -274,10 +274,10 @@
     "type": "Appetizer",
     "cuisine": "chinese",
     "servings": "24 Egg-rolls",
-    "imageUrl": ""
+    "imageUrl": "f6255d87-79cf-4ef5-bedf-5fd6cf3aaf70.jpg"
   },
   {
-    "id": "",
+    "id": "a492d921-1279-42bb-8a2a-52d4e1c4013e",
     "name": "Chinese Leeks Sweet And Sour",
     "description": "Chinese Leeks Sweet And Sour is a savory and flavorful dish that combines the unique taste of Chinese leeks with a sweet and tangy sauce. The leeks are sautéed to perfection in butter and then simmered in a delicious mixture of dark brown sugar, red wine vinegar, and chicken broth. This dish is perfect for a satisfying dinner that will impress your taste buds with its rich and dynamic flavors.",
     "ingredients": [
@@ -299,10 +299,10 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "a492d921-1279-42bb-8a2a-52d4e1c4013e.jpg"
   },
   {
-    "id": "",
+    "id": "847df47a-a675-40db-b51f-49d83248f719",
     "name": "Fresh Mozzarella, Italian Sausage and Roasted Pepper Calzon",
     "description": "A delicious and hearty calzone filled with fresh mozzarella, Italian sausage, roasted peppers, and flavorful ingredients, baked to golden perfection. This meal is perfect for a satisfying dinner option.",
     "ingredients": [
@@ -340,10 +340,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "2 Servings",
-    "imageUrl": ""
+    "imageUrl": "847df47a-a675-40db-b51f-49d83248f719.jpg"
   },
   {
-    "id": "",
+    "id": "b3e7c693-270b-4ccb-b0d0-846d4e7c3841",
     "name": "Grandma Demaio's Italian Stew",
     "description": "Grandma DeMaio's Italian Stew is a hearty and flavorful stew made with Italian sausage (or hot dogs), tomatoes, green pepper, zucchini, potatoes, Maui onion, garlic, and a blend of herbs and spices. This stew is a comforting and nostalgic dish that simmers slowly to develop rich flavors. It is a perfect meal for a cozy family dinner, especially during the colder months.",
     "ingredients": [
@@ -373,10 +373,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "6 servings",
-    "imageUrl": ""
+    "imageUrl": "b3e7c693-270b-4ccb-b0d0-846d4e7c3841.jpg"
   },
   {
-    "id": "",
+    "id": "583b0cad-99a9-4388-bdd0-45b532513e18",
     "name": "Microwave Chicken Breasts Italian",
     "description": "A quick and flavorful recipe for microwave Italian chicken breasts that are juicy and packed with savory flavors. This dish is perfect for a simple and delicious dinner option.",
     "ingredients": [
@@ -416,10 +416,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "583b0cad-99a9-4388-bdd0-45b532513e18.jpg"
   },
   {
-    "id": "",
+    "id": "e7f945d4-c16c-4858-b6b8-316b94307337",
     "name": "Chicken with Italian Herbs and Vegetables",
     "description": "A flavorful and healthy dinner recipe featuring boneless, skinless chicken breasts seasoned with Italian herbs like oregano and basil, grilled with a medley of white mushrooms, red and green bell peppers, onions, and garlic. Serve this delicious dish for a satisfying meal that serves 6.",
     "ingredients": [
@@ -448,10 +448,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "e7f945d4-c16c-4858-b6b8-316b94307337.jpg"
   },
   {
-    "id": "",
+    "id": "7e241285-15f4-4730-ac7d-459334ed5f39",
     "name": "Chicago Italian Beef Sandwiches",
     "description": "Chicago Italian Beef Sandwiches are a classic Chicago-style dish featuring thinly sliced roast beef simmered in flavorful herbs and spices. The beef is served on Italian bread with grilled green peppers or giardiniera relish, creating a hearty and satisfying meal perfect for dinner.",
     "ingredients": [
@@ -488,10 +488,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "7e241285-15f4-4730-ac7d-459334ed5f39.jpg"
   },
   {
-    "id": "",
+    "id": "14f8fed4-9fdc-4efd-b81c-81368fb2dc40",
     "name": "Vlf Italian Potato Salad",
     "description": "A refreshing and flavorful salad made with new red potatoes, red onion, black olives, cucumber, tomato, and a zesty fat-free Italian dressing. This salad is perfect for a light lunch or as a side dish for a summertime barbecue. The combination of fresh ingredients and tangy dressing makes it a delicious and healthy choice.",
     "ingredients": [
@@ -525,10 +525,10 @@
     "type": "Lunch",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "14f8fed4-9fdc-4efd-b81c-81368fb2dc40.jpg"
   },
   {
-    "id": "",
+    "id": "7068338f-4795-42ca-9a8e-7d835fc4f64a",
     "name": "Halibut Italiano",
     "description": "A flavorful and cheesy dish featuring halibut fillets baked with spaghetti sauce, mushrooms, olives, and cheese. This Halibut Italiano recipe is a delicious and satisfying dinner option.",
     "ingredients": [
@@ -550,10 +550,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "7068338f-4795-42ca-9a8e-7d835fc4f64a.jpg"
   },
   {
-    "id": "",
+    "id": "857ce942-fb13-4a37-a41b-51cd3cf0871d",
     "name": "Giardiniera #5 - Italian",
     "description": "Giardiniera is an Italian pickled vegetable medley that includes a variety of vegetables like cauliflower, broccoli, carrots, onions, garlic, and green olives, along with fresh chiles. This pickled mix is tangy, crunchy, and full of flavor, making it a perfect condiment to accompany sandwiches, salads, or antipasto platters.",
     "ingredients": [
@@ -580,10 +580,10 @@
     "type": "Condiment",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "857ce942-fb13-4a37-a41b-51cd3cf0871d.jpg"
   },
   {
-    "id": "",
+    "id": "cebe6de8-5af9-4f0f-901b-4c7f2799b8e8",
     "name": "Crockpot Fondue Italiano",
     "description": "Crockpot Fondue Italiano is a delicious and hearty Italian meal perfect for dinner. It features a rich and flavorful combination of ground beef, cheeses, tomato sauce, and a hint of red wine, all cooked to perfection in a crock-pot. Serve this fondue with chunks of Italian bread for a cozy and satisfying meal.",
     "ingredients": [
@@ -609,10 +609,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "cebe6de8-5af9-4f0f-901b-4c7f2799b8e8.jpg"
   },
   {
-    "id": "",
+    "id": "4c76e986-1f99-417b-814a-a134b63a4713",
     "name": "Crockpot Italian Beef #1",
     "description": "Crockpot Italian Beef is a flavorful and tender dish made with a rump roast seasoned with Italian dressing mix, au jus gravy packet, Italian seasoning, and pepperocini peppers. Slow-cooked to perfection, this dish is savory and perfect for a hearty dinner.",
     "ingredients": [
@@ -630,10 +630,10 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "4c76e986-1f99-417b-814a-a134b63a4713.jpg"
   },
   {
-    "id": "",
+    "id": "afbc263c-413e-4199-98ff-58625d9b6f44",
     "name": "Greek Couscous",
     "description": "Greek Couscous is a fresh and flavorful salad featuring couscous, plum tomatoes, cucumber, feta cheese, olives, red onion, and chickpeas, all tossed in a zesty lemon and olive oil dressing. This Mediterranean-inspired dish is perfect for a light and satisfying lunch option.",
     "ingredients": [
@@ -663,10 +663,10 @@
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "afbc263c-413e-4199-98ff-58625d9b6f44.jpg"
   },
   {
-    "id": "",
+    "id": "e3989189-aaa7-4bfb-8c7f-aea93fc54f2d",
     "name": "Greek Duck with Olives",
     "description": "This Greek Duck with Olives recipe is a savory and hearty dish that features tender duck pieces simmered in a flavorful Greek Tomato Sauce with green olives. The dish is rich in taste, with a hint of dry red wine adding depth to the flavors. The caramelized onions and seasonings like salt and freshly-ground black pepper enhance the overall taste profile. This meal is perfect for a special dinner occasion, offering a taste of Greece with each bite.",
     "ingredients": [
@@ -696,10 +696,10 @@
     "type": "Dinner",
     "cuisine": "Greek",
     "servings": "6 servings",
-    "imageUrl": ""
+    "imageUrl": "e3989189-aaa7-4bfb-8c7f-aea93fc54f2d.jpg"
   },
   {
-    "id": "",
+    "id": "b950c020-5263-4164-9d16-56e2fd3d7254",
     "name": "Greek Easter Braided Bread",
     "description": "Greek Easter Braided Bread is a traditional sweet bread enjoyed during the Easter season in Greece. It is a festive and symbolic bread that is braided and adorned with red-dyed eggs, making it a perfect treat for Easter celebrations. The bread is sweet, aromatic, and rich in flavors from ingredients like orange zest, lemon zest, and mahlepi. Enjoy it as a delightful dessert to complement your Easter festivities.",
     "ingredients": [
@@ -748,10 +748,10 @@
     "type": "Dessert",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "b950c020-5263-4164-9d16-56e2fd3d7254.jpg"
   },
   {
-    "id": "",
+    "id": "69ac2628-511c-4a33-8612-096a5f3da0f7",
     "name": "Greek Fetta Dressing",
     "description": "A refreshing and tangy Greek Fetta Dressing that is perfect for salads or as a dip.",
     "ingredients": [
@@ -772,10 +772,10 @@
     "type": "Dressing",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "69ac2628-511c-4a33-8612-096a5f3da0f7.jpg"
   },
   {
-    "id": "",
+    "id": "dfdaf751-5bea-4abb-8110-6f58ba875bdf",
     "name": "Greek Grainberry Salad",
     "description": "Greek Grainberry Salad is a refreshing and nutritious salad made with spelt berries, red onion, cucumber, red pepper, fresh herbs, and a tangy dressing of olive oil and lemon juice. It can be served as a satisfying lunch option that is light yet filling, perfect for a healthy midday meal. The optional addition of feta cheese adds a creamy and savory element to the salad.",
     "ingredients": [
@@ -810,10 +810,10 @@
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "6 servings",
-    "imageUrl": ""
+    "imageUrl": "dfdaf751-5bea-4abb-8110-6f58ba875bdf.jpg"
   },
   {
-    "id": "",
+    "id": "3aaea157-e7c5-4f8f-8293-7a19ec806323",
     "name": "Greek Island Salad",
     "description": "This Greek Island Salad is a refreshing and flavorful dish featuring ripe Queensland tomatoes, Spanish onion, Fetta cheese, Kalamata olives, and a zesty dressing of extra virgin olive oil and fresh lemon juice. It is garnished with parsley and seasoned with salt and black pepper. This salad is perfect for a light lunch or as a side dish for dinner. Serve it with pita bread, Turkish bread, or warm crusty Italian bread for a satisfying meal.",
     "ingredients": [
@@ -836,10 +836,10 @@
     "type": "Salad",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "3aaea157-e7c5-4f8f-8293-7a19ec806323.jpg"
   },
   {
-    "id": "",
+    "id": "ac501b12-1673-40ee-a0ae-d6d1ca092874",
     "name": "Greek Lamb And Potato Kabobs",
     "description": "Delicious Greek lamb and potato kabobs seasoned with oregano, served with a refreshing tomato and cucumber mixture, warm pita bread, and a wedge of lemon. A flavorful and satisfying meal perfect for dinner.",
     "ingredients": [
@@ -877,10 +877,10 @@
     "type": "Dinner",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "ac501b12-1673-40ee-a0ae-d6d1ca092874.jpg"
   },
   {
-    "id": "",
+    "id": "b42aec69-6994-4426-9f42-c804464a0466",
     "name": "Greek Lamb Salad in Tortilla Bowls",
     "description": "This Greek-inspired meal features a flavorful combination of lean ground lamb, fresh vegetables, and a zesty yogurt dressing, all served in crispy tortilla bowls. It's a satisfying and delicious lunch option.",
     "ingredients": [
@@ -910,10 +910,10 @@
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "b42aec69-6994-4426-9f42-c804464a0466.jpg"
   },
   {
-    "id": "",
+    "id": "0377e3f8-bced-4ffa-81b3-c1d110e9f994",
     "name": "Greek Lemon-Rice Soup",
     "description": "A delicious and comforting Greek Lemon-Rice Soup that is perfect for a light and flavorful lunch option. This soup is infused with the tangy flavors of lemon juice and fresh parsley, creating a refreshing and satisfying meal.",
     "ingredients": [
@@ -932,15 +932,15 @@
       " Mix lemon juice and egg; slowly stir mixture into soup",
       " Stir in parsley; season to taste with salt and white pepper",
       " Pour soup into bowls",
-      " Per 1 cup serving = 106 calories, 2 gm fat, 53 mg cholesterol, 31 mg sodium, 14 gm carbohydrate, 3 gm protein Exchanges: 1 bread"
+      " Per 1 cup serving \u003d 106 calories, 2 gm fat, 53 mg cholesterol, 31 mg sodium, 14 gm carbohydrate, 3 gm protein Exchanges: 1 bread"
     ],
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "0377e3f8-bced-4ffa-81b3-c1d110e9f994.jpg"
   },
   {
-    "id": "",
+    "id": "b7bc415e-ac51-45b8-9e6f-c09920a05094",
     "name": "Greek Lentil Soup <t>",
     "description": "This Greek Lentil Soup is a hearty and nutritious dish that is perfect for a comforting dinner. Made with lentils, fresh vegetables, and a blend of aromatic spices, this soup is flavorful and satisfying. The addition of green beans adds a delightful crunch, making it a wholesome and delicious meal option.",
     "ingredients": [
@@ -978,10 +978,10 @@
     "type": "Dinner",
     "cuisine": "Greek",
     "servings": "8 servings",
-    "imageUrl": ""
+    "imageUrl": "b7bc415e-ac51-45b8-9e6f-c09920a05094.jpg"
   },
   {
-    "id": "",
+    "id": "df854434-6a68-4295-bb9a-653a7099a210",
     "name": "Electronic Gourmet's French Dressing",
     "description": "This French Dressing recipe is a classic and versatile dressing that can be used to elevate any salad. It has a balanced combination of vinegar, olive oil, salt, and pepper, with options to customize with variations like garlic or sweet additions. This dressing is easy to make and can be stored for a few days to enhance the flavors. It's perfect for adding a flavorful touch to salads for any meal.",
     "ingredients": [
@@ -993,20 +993,20 @@
     "instructions": [
       "In a bowl mix vinegar, salt and pepper with a fork",
       " Add oil and mix vigerously until well blended and slightly thickened",
-      " Variations: ========== Garlic French Dressing: Drop 1 peeled, bruised clove of garlic into dressing and let stand 2-3 days at room temperature",
+      " Variations: Garlic French Dressing: Drop 1 peeled, bruised clove of garlic into dressing and let stand 2-3 days at room temperature",
       " Remove garlic before using dressing",
       " Sweet French Dressing: Prepare as directed",
       " Then mix in 1/4 c each of orange juice and honey or super fine sugar",
       " Use to dress fruit salads",
-      " Hints: ===== For a creamier dressing, beat over ice for 1 to 2 minutes"
+      " Hints: For a creamier dressing, beat over ice for 1 to 2 minutes"
     ],
     "type": "Salad Dressing",
     "cuisine": "French",
     "servings": "1 Cup",
-    "imageUrl": ""
+    "imageUrl": "df854434-6a68-4295-bb9a-653a7099a210.jpg"
   },
   {
-    "id": "",
+    "id": "f21f334c-5b42-4632-a324-baf93d9f3c33",
     "name": "Electronic Gourmet's French Onion Soup",
     "description": "This French Onion Soup recipe is a classic and hearty dinner option. It features caramelized onions in a flavorful broth, topped with toasted bread and melted Swiss cheese. The rich flavors and comforting warmth make it a perfect choice for a cozy evening meal.",
     "ingredients": [
@@ -1043,10 +1043,10 @@
     "type": "Dinner",
     "cuisine": "French",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "f21f334c-5b42-4632-a324-baf93d9f3c33.jpg"
   },
   {
-    "id": "",
+    "id": "808ff5a8-9c88-4083-9fde-76cb5a6a36a5",
     "name": "Ella's French Toast with Orange and Triple Sec",
     "description": "French toast with a citrusy twist, enhanced by the flavors of orange and Triple Sec. This dish is a delightful combination of sweet and tangy, perfect for a leisurely breakfast or brunch.",
     "ingredients": [
@@ -1075,10 +1075,10 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "808ff5a8-9c88-4083-9fde-76cb5a6a36a5.jpg"
   },
   {
-    "id": "",
+    "id": "f47dd109-a726-4dd9-bcac-4552515f1bf7",
     "name": "English Muffin French Toa",
     "description": "English Muffin French Toast is a delicious and indulgent breakfast dish made by dipping English muffins in a sweet batter and grilling them until golden brown. It is a perfect combination of crispy on the outside and soft on the inside, served warm and topped with your favorite syrup or fruits.",
     "ingredients": [
@@ -1118,10 +1118,10 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "100 Servings",
-    "imageUrl": ""
+    "imageUrl": "f47dd109-a726-4dd9-bcac-4552515f1bf7.jpg"
   },
   {
-    "id": "",
+    "id": "f96d3e78-62a9-4a67-8a57-6ead963d6608",
     "name": "Horseradish French Dressing",
     "description": "Horseradish French Dressing is a zesty and flavorful dressing that adds a kick to any salad. It combines the tanginess of ketchup and vinegar with the heat of horseradish and the sweetness of sugar, creating a versatile dressing that can elevate the flavors of various salads.",
     "ingredients": [
@@ -1143,10 +1143,10 @@
     "type": "Dressing",
     "cuisine": "French",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "f96d3e78-62a9-4a67-8a57-6ead963d6608.jpg"
   },
   {
-    "id": "",
+    "id": "c3838bdf-6cfa-45d2-878c-20db9473ce76",
     "name": "Berry French Toast with Fois Gras",
     "description": "Berry French Toast with Fois Gras is a decadent and luxurious breakfast dish that combines the richness of fois gras with the sweetness of mixed berries and the comforting flavors of French toast. This dish is perfect for a special morning treat or a brunch gathering.",
     "ingredients": [
@@ -1184,10 +1184,10 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "c3838bdf-6cfa-45d2-878c-20db9473ce76.jpg"
   },
   {
-    "id": "",
+    "id": "e4104688-40cb-42fc-aa42-a220f3a84585",
     "name": "Challah French Toast",
     "description": "A delicious and indulgent breakfast dish made with challah bread dipped in a rich egg and cream mixture, seasoned with cinnamon and salt, and fried to golden perfection. Serve this Challah French Toast with your favorite toppings like jam, maple syrup, honey, or enjoy it plain for a satisfying morning meal.",
     "ingredients": [
@@ -1213,10 +1213,10 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "e4104688-40cb-42fc-aa42-a220f3a84585.jpg"
   },
   {
-    "id": "",
+    "id": "6f2f2db2-9d46-46d2-b836-a9a0ecb74526",
     "name": "Pissaladiere - (French Onion-Anchovy Tart)",
     "description": "Pissaladiere is a traditional French onion-anchovy tart that combines sweet caramelized onions, savory anchovies, and flavorful herbs on a crispy puff pastry base. It is a versatile dish that can be enjoyed as an appetizer, a light lunch, or a flavorful snack.",
     "ingredients": [
@@ -1253,10 +1253,10 @@
     "type": "Appetizer, Lunch, Snack",
     "cuisine": "French",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "6f2f2db2-9d46-46d2-b836-a9a0ecb74526.jpg"
   },
   {
-    "id": "",
+    "id": "1cff7354-3925-4675-9163-3031d3567f56",
     "name": "Oven French Fries",
     "description": "Crispy and golden oven French fries made from scratch using fresh potatoes, tossed in oil, and baked to perfection. These fries are a healthier alternative to traditional deep-fried fries and make for a delicious snack or side dish.",
     "ingredients": [
@@ -1276,10 +1276,10 @@
     "type": "Snack",
     "cuisine": "French",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "1cff7354-3925-4675-9163-3031d3567f56.jpg"
   },
   {
-    "id": "",
+    "id": "bc98b1c1-6325-4e1f-a8b9-b83f0ed077e8",
     "name": "English / Indian Ingredients , Part 1",
     "description": "This recipe includes a variety of English and Indian ingredients commonly used in cooking. The ingredients range from spices like ginger, cardamom, and cumin to fruits like mango and pomegranate. The combination of these ingredients suggests that this recipe is likely for a side dish that can complement a main course in a meal.",
     "ingredients": [
@@ -1292,10 +1292,10 @@
     "type": "Side Dish",
     "cuisine": "Indian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "bc98b1c1-6325-4e1f-a8b9-b83f0ed077e8.jpg"
   },
   {
-    "id": "",
+    "id": "14f7d58a-9ba8-4490-add0-06ca6970d906",
     "name": "English / Indian Ingredients , Part 2",
     "description": "This recipe includes a variety of English and Indian ingredients that are commonly used in traditional dishes. The combination of spices and flavors creates a rich and aromatic curry dish that can be enjoyed as a hearty main course meal.",
     "ingredients": [
@@ -1307,10 +1307,10 @@
     "type": "Main Course",
     "cuisine": "Indian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "14f7d58a-9ba8-4490-add0-06ca6970d906.jpg"
   },
   {
-    "id": "",
+    "id": "6a0854d2-9e03-400d-8d5d-f20842ed83bf",
     "name": "Mee Goreng (Fried Noodles Indian-Style)",
     "description": "Mee Goreng is a flavorful and spicy fried noodle dish prepared Indian-style. It combines a variety of ingredients like noodles, prawns or chicken, vegetables, and spices to create a delicious and satisfying meal.",
     "ingredients": [
@@ -1348,10 +1348,10 @@
     "type": "Dinner",
     "cuisine": "Indian",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "6a0854d2-9e03-400d-8d5d-f20842ed83bf.jpg"
   },
   {
-    "id": "",
+    "id": "44ac91ea-7391-4196-8c23-1edcac118cc2",
     "name": "Chapati with Spicy Potato Filling (Indian)",
     "description": "Chapati with Spicy Potato Filling is a traditional Indian dish that consists of a flavorful and spicy potato filling wrapped in a wholemeal flour chapati. It is a versatile meal that can be enjoyed for lunch or dinner, paired with your favorite curry, dhal, or plain yogurt.",
     "ingredients": [
@@ -1392,10 +1392,10 @@
     "type": "Lunch",
     "cuisine": "Indian",
     "servings": "16 Chapatis",
-    "imageUrl": ""
+    "imageUrl": "44ac91ea-7391-4196-8c23-1edcac118cc2.jpg"
   },
   {
-    "id": "",
+    "id": "65c36926-159f-44aa-a553-07f46b315526",
     "name": "Chipati (Indian Griddle Fried Flat Bread)",
     "description": "Chipati is a delicious Indian griddle-fried flatbread that is perfect as a snack. Made with whole wheat flour, salt, water, and ghee, Chipati is a versatile and flavorful bread that can be enjoyed on its own or paired with various dips and sauces. The recipe yields 20-24 Chipati, making it ideal for sharing with family and friends or as a quick snack for yourself. Enjoy the crispy and flavorful Chipati as a tasty treat any time of the day!",
     "ingredients": [
@@ -1418,10 +1418,10 @@
     "type": "Snack",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "65c36926-159f-44aa-a553-07f46b315526.jpg"
   },
   {
-    "id": "",
+    "id": "d549ce61-979c-47a2-ba53-c372a9d347e1",
     "name": "Wakavaki Indian Soup",
     "description": "Wakavaki Indian Soup is a hearty and flavorful dish that combines tender short ribs with a variety of vegetables and beans. This soup is rich in flavor and perfect for a comforting dinner, especially on a chilly evening. Serve it with a tortilla for a complete and satisfying meal.",
     "ingredients": [
@@ -1447,10 +1447,10 @@
     "type": "Dinner",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "d549ce61-979c-47a2-ba53-c372a9d347e1.jpg"
   },
   {
-    "id": "",
+    "id": "1f656bc8-4497-4df6-a2a2-a438fdfb9904",
     "name": "Gujarati Potatoes Indian",
     "description": "This recipe features Gujarati-style potatoes cooked with aromatic spices like turmeric, asafoetida, and garlic, giving it a flavorful and comforting taste. It is a perfect dish for lunch or dinner, offering a satisfying and delicious meal with Indian flavors.",
     "ingredients": [
@@ -1479,7 +1479,7 @@
       " Remove potatoes with tongs or slotted spoon to a plate with a paper towel on it",
       " From here on you have to move kind of fast: throw the sesame seeds into the skillet, stir once",
       " Add the garlic, and continue to stir",
-      " When it =just= begins to turn brown, quickly add turmeric and asafoetida, and stir once more",
+      " When it just begins to turn brown, quickly add turmeric and asafoetida, and stir once more",
       " After just a couple of seconds put the potatoes back in, with salt and cayenne or hot powder",
       " Reduce heat and cook gently until done",
       " Stir frequently",
@@ -1489,10 +1489,10 @@
     "type": "Lunch or Dinner",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "1f656bc8-4497-4df6-a2a2-a438fdfb9904.jpg"
   },
   {
-    "id": "",
+    "id": "0b152212-e27d-4e7f-8fa3-3cb8df16256e",
     "name": "Ghee (Indian Butter Oil)",
     "description": "Ghee, also known as Indian Butter Oil, is a clarified butter that is a staple in Indian cuisine. It is made by simmering butter to remove the milk solids, resulting in a rich and nutty flavor. Ghee is commonly used in cooking and as a condiment to enhance the taste of various dishes.",
     "ingredients": [
@@ -1516,10 +1516,10 @@
     "type": "Condiment",
     "cuisine": "Indian",
     "servings": "3 Cups",
-    "imageUrl": ""
+    "imageUrl": "0b152212-e27d-4e7f-8fa3-3cb8df16256e.jpg"
   },
   {
-    "id": "",
+    "id": "de312b2a-8498-4700-8354-80d3012a218e",
     "name": "Christmas Cake West Indian Style",
     "description": "Christmas Cake West Indian Style is a rich and flavorful fruitcake that is traditionally made for special occasions like weddings or Christmas in the West Indian region. It is infused with a variety of dried fruits soaked in rum and sherry, and spiced with a blend of warm spices like ginger, nutmeg, cinnamon, cloves, and allspice. The cake is moist, dense, and packed with festive flavors, making it a delightful treat to enjoy during the holiday season. Serve this decadent cake with a Hard Rum Sauce for an extra touch of indulgence.",
     "ingredients": [
@@ -1569,10 +1569,10 @@
     "type": "Dessert",
     "cuisine": "Indian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "de312b2a-8498-4700-8354-80d3012a218e.jpg"
   },
   {
-    "id": "",
+    "id": "5a3ff23b-d7aa-4556-8584-86ecd007b666",
     "name": "Sothi (South Indian)",
     "description": "Sothi is a traditional South Indian curry made with a rich coconut milk base and a variety of vegetables. It is a flavorful and creamy dish that is typically served with rice. Sothi is a popular dish in South Indian cuisine, known for its aromatic spices and comforting flavors.",
     "ingredients": [
@@ -1610,10 +1610,10 @@
     "type": "Lunch",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "5a3ff23b-d7aa-4556-8584-86ecd007b666.jpg"
   },
   {
-    "id": "",
+    "id": "61aec5d7-e7be-483a-8f75-9b41b35256f2",
     "name": "Enchiladas with Salsa Mexicana",
     "description": "These enchiladas with Salsa Mexicana are a flavorful and light dinner option filled with a variety of vegetables like bell peppers, onions, mushrooms, potatoes, and spinach. The addition of feta cheese provides a tangy flavor and creaminess to the dish. Served with a side of finely shredded romaine lettuce and garnished with cilantro, these enchiladas make for a delicious and nutritious dinner choice.",
     "ingredients": [
@@ -1661,10 +1661,10 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "61aec5d7-e7be-483a-8f75-9b41b35256f2.jpg"
   },
   {
-    "id": "",
+    "id": "013ea3c1-6f7f-4087-be46-5ed258aef1de",
     "name": "Mcdougall Mexican Zucchini",
     "description": "This Mcdougall Mexican Zucchini recipe is a flavorful and nutritious dish made with thinly sliced zucchini, grated carrot, chopped onion, celery, green pepper, and tomatoes. The vegetables are layered in a casserole dish and topped with a delicious sauce made with mild green chili salsa, dried basil, garlic, and mustard. This dish is baked to perfection, creating a satisfying and wholesome meal that can be served with grains such as brown rice or bulgur wheat.",
     "ingredients": [
@@ -1690,10 +1690,10 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "6 servings",
-    "imageUrl": ""
+    "imageUrl": "013ea3c1-6f7f-4087-be46-5ed258aef1de.jpg"
   },
   {
-    "id": "",
+    "id": "28910b89-66fc-4b06-b9f1-db0bd0004fac",
     "name": "Mexican Bananas Foster",
     "description": "Mexican Bananas Foster is a delicious and decadent dessert that combines ripe bananas with a rich and flavorful sauce made from brown sugar, Kahlua, and butter. The bananas are grilled to perfection and served over vanilla ice cream, creating a sweet and indulgent treat that is perfect for special occasions or a delightful ending to a meal.",
     "ingredients": [
@@ -1722,10 +1722,10 @@
     "type": "Dessert",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "28910b89-66fc-4b06-b9f1-db0bd0004fac.jpg"
   },
   {
-    "id": "",
+    "id": "a1d8be4c-47b7-4b5b-8724-7fb606bb5fa4",
     "name": "Mexican Beef And Bean-Stuffed Peppers",
     "description": "Mexican Beef and Bean-Stuffed Peppers is a flavorful and nutritious dish that combines extra-lean ground beef, kidney beans, green chilies, and a blend of spices stuffed inside bell peppers. The peppers are baked to tender perfection and topped with shredded cheddar cheese, creating a hearty and satisfying meal.",
     "ingredients": [
@@ -1765,10 +1765,10 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "a1d8be4c-47b7-4b5b-8724-7fb606bb5fa4.jpg"
   },
   {
-    "id": "",
+    "id": "0d50b0a6-9452-4e82-b2c9-e68865539720",
     "name": "Mexican Beef Brisket",
     "description": "This Mexican Beef Brisket recipe is a hearty and flavorful dish featuring tender beef brisket cooked in a rich and savory sauce with a blend of spices and vegetables. It is perfect for a satisfying dinner, especially when served with rice or tortillas.",
     "ingredients": [
@@ -1817,10 +1817,10 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "0d50b0a6-9452-4e82-b2c9-e68865539720.jpg"
   },
   {
-    "id": "",
+    "id": "7095ab0e-7890-442e-943a-ca0fade3caa1",
     "name": "Mexican Black Bean Burger",
     "description": "A flavorful and protein-packed Mexican Black Bean Burger that is easy to make and perfect for a satisfying lunch. The burger patties are made with black beans, onions, bell peppers, and spices, then cooked to perfection and served on a bun with salsa and guacamole for a delicious meal.",
     "ingredients": [
@@ -1846,10 +1846,10 @@
     "type": "Lunch",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "7095ab0e-7890-442e-943a-ca0fade3caa1.jpg"
   },
   {
-    "id": "",
+    "id": "e9c5c7b8-f111-47d1-941d-027defdab41f",
     "name": "Mexican Black Bean Chili",
     "description": "This Mexican Black Bean Chili is a hearty and flavorful dish packed with black beans, a variety of bell peppers, spices, and a touch of chocolate for richness. It is a perfect meal for a cozy dinner, especially during colder weather. The combination of ingredients creates a comforting and satisfying chili that is sure to be a crowd-pleaser.",
     "ingredients": [
@@ -1886,10 +1886,10 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "6 servings",
-    "imageUrl": ""
+    "imageUrl": "e9c5c7b8-f111-47d1-941d-027defdab41f.jpg"
   },
   {
-    "id": "",
+    "id": "c7d3e9a7-ea9a-4429-b49f-832fdf424b83",
     "name": "Mexican Burritos",
     "description": "Mexican Burritos are a delicious and filling lunch option. They consist of a flavorful mixture of cooked mixed beans, colorful peppers, garlic, mushrooms, and tomatoes, all wrapped in a Mexican pancake (tortilla). Topped with salsa sauce, sour cream, and grated cheese, these burritos are a perfect combination of savory ingredients that will satisfy your taste buds.",
     "ingredients": [
@@ -1913,10 +1913,10 @@
     "type": "Lunch",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "c7d3e9a7-ea9a-4429-b49f-832fdf424b83.jpg"
   },
   {
-    "id": "",
+    "id": "8e73b33f-0557-4873-bdec-10dcd4e0f1cc",
     "name": "Mexican Butternut Squash Soup",
     "description": "A flavorful and hearty Mexican Butternut Squash Soup with a blend of butternut squash, vegetables, and spices, finished with a hint of lime juice and cilantro. This soup is warm, comforting, and perfect for a cozy dinner on a chilly evening.",
     "ingredients": [
@@ -1942,10 +1942,10 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "8e73b33f-0557-4873-bdec-10dcd4e0f1cc.jpg"
   },
   {
-    "id": "",
+    "id": "e1d992c6-0e36-4c5c-9bda-cd454da54bb1",
     "name": "Mexican Cheese Melts (Quesadillas)",
     "description": "Mexican Cheese Melts, also known as Quesadillas, are delicious and easy-to-make snacks that consist of flour tortillas filled with melted Monterey Jack-pepper cheese. They are crispy on the outside and gooey on the inside, making them a perfect treat for any time of the day. Serve these cheesy delights with sour cream, salsa, and sliced scallions for an added burst of flavor.",
     "ingredients": [
@@ -1966,10 +1966,10 @@
     "type": "Snack",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "e1d992c6-0e36-4c5c-9bda-cd454da54bb1.jpg"
   },
   {
-    "id": "",
+    "id": "1195e815-6ed1-411b-b992-831310cc82bc",
     "name": "Green Thai Curry",
     "description": "Green Thai Curry is a flavorful and aromatic Thai dish made with tender pieces of chicken cooked in a rich and creamy coconut curry sauce. This dish is packed with vibrant flavors from green curry paste, fresh herbs, and spices, creating a delicious and satisfying meal perfect for dinner. Serve this Green Thai Curry with rice for a complete and comforting meal.",
     "ingredients": [
@@ -1999,10 +1999,10 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "1195e815-6ed1-411b-b992-831310cc82bc.jpg"
   },
   {
-    "id": "",
+    "id": "71c114e2-2f10-408a-a53a-5df8ee620680",
     "name": "Hot and Sour Shrimp Soup (Thai)",
     "description": "Hot and Sour Shrimp Soup is a traditional Thai soup that is both spicy and tangy, with the flavors of lemongrass, lime, and chili paste. It is a light and refreshing soup that is perfect for a warm day or as a starter for a Thai meal.",
     "ingredients": [
@@ -2046,10 +2046,10 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "71c114e2-2f10-408a-a53a-5df8ee620680.jpg"
   },
   {
-    "id": "",
+    "id": "db476968-7cb8-44b6-a3fc-f4e7730d75d3",
     "name": "Bhud Thai (Flat Noodles with Prawn, Chicken And Peanuts)",
     "description": "Bhud Thai is a flavorful and aromatic Thai dish featuring flat rice noodles stir-fried with prawns, chicken, peanuts, and a blend of spices and sauces. This dish offers a perfect balance of savory, sweet, and tangy flavors, making it a satisfying and delicious lunch option.",
     "ingredients": [
@@ -2087,10 +2087,10 @@
     "type": "Lunch",
     "cuisine": "Thai",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "db476968-7cb8-44b6-a3fc-f4e7730d75d3.jpg"
   },
   {
-    "id": "",
+    "id": "ed023d83-112b-4fc7-9f6d-568c0c05471c",
     "name": "Cha Thai (Iced Tea)",
     "description": "Cha Thai, also known as Thai Iced Tea, is a traditional Thai beverage made with Thai tea, sweetened condensed milk, and half-and-half. It is a refreshing and sweet drink perfect for hot summer days or as a delightful treat anytime. The tea is brewed multiple times to achieve its deep red color and then mixed with ice and dairy for a creamy and indulgent drink.",
     "ingredients": [
@@ -2119,10 +2119,10 @@
     "type": "Beverage",
     "cuisine": "Thai",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "ed023d83-112b-4fc7-9f6d-568c0c05471c.jpg"
   },
   {
-    "id": "",
+    "id": "73b52543-0d02-47ca-9cad-2cf6edaefd57",
     "name": "Peter Gordon's Thai Style Salad of Kangaroo",
     "description": "This recipe is a unique and flavorful Thai-style salad featuring kangaroo fillet as the main protein. The dressing is zesty and spicy, complementing the tender kangaroo meat. The addition of fresh herbs, roasted peanuts, and roasted rice adds texture and depth to the salad. It's a refreshing and exotic dish that can be a delightful main course for a special dinner.",
     "ingredients": [
@@ -2151,10 +2151,10 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "6 servings",
-    "imageUrl": ""
+    "imageUrl": "73b52543-0d02-47ca-9cad-2cf6edaefd57.jpg"
   },
   {
-    "id": "",
+    "id": "25bd1a9d-dc69-424a-a6f1-04affd83bc8d",
     "name": "Pad Thai",
     "description": "Pad Thai is a classic Thai stir-fried noodle dish that is savory, sweet, and slightly spicy. It is a flavorful and satisfying meal that combines rice noodles with a delicious sauce, protein (meat or shrimp), and fresh vegetables, topped with ground peanuts and lime slices for an extra burst of flavor. Perfect for a hearty dinner option.",
     "ingredients": [
@@ -2188,10 +2188,10 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "25bd1a9d-dc69-424a-a6f1-04affd83bc8d.jpg"
   },
   {
-    "id": "",
+    "id": "4f05cf44-01d7-4163-82a3-5f766b88acc3",
     "name": "Emily's Spanish Rice",
     "description": "Emily's Spanish Rice is a nostalgic and budget-friendly dish that has been cherished for decades. This hearty meal, made with ground beef, rice, vegetables, and a flavorful blend of spices, is a comforting and satisfying dinner option. It is a simple yet delicious recipe that can evoke fond memories and create new ones with each bite. Serve this Spanish Rice with a side of canned corn and bread for a complete and wholesome meal.",
     "ingredients": [
@@ -2232,10 +2232,10 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "4f05cf44-01d7-4163-82a3-5f766b88acc3.jpg"
   },
   {
-    "id": "",
+    "id": "ab6f7afc-7ca8-40b3-a2f1-87c9d520fe08",
     "name": "Grandma's Spanish Rice",
     "description": "Grandma's Spanish Rice is a flavorful and comforting dish that combines tender rice with a medley of vegetables and citrusy flavors. This hearty meal is perfect for lunch or dinner, offering a delicious blend of savory and tangy notes that will satisfy your taste buds.",
     "ingredients": [
@@ -2258,10 +2258,10 @@
     "type": "Lunch or Dinner",
     "cuisine": "Spanish",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "ab6f7afc-7ca8-40b3-a2f1-87c9d520fe08.jpg"
   },
   {
-    "id": "",
+    "id": "d00cc736-8333-400f-be50-77667bc17476",
     "name": "Chicken with Spanish Rice",
     "description": "A delicious and wholesome Spanish-inspired meal featuring tender chicken cooked with flavorful Spanish rice, green beans, and pimento. This dish is simmered in a rich broth with tomatoes, saffron, and parsley, creating a vibrant and aromatic flavor profile. Serve this hearty meal with a side of tossed salad for a complete and satisfying dining experience.",
     "ingredients": [
@@ -2304,10 +2304,10 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "d00cc736-8333-400f-be50-77667bc17476.jpg"
   },
   {
-    "id": "",
+    "id": "c866caf9-66b4-4d1e-9393-77864e233e66",
     "name": "Halibut Braised in Spanish Pepper Sauce (Light)",
     "description": "This Halibut Braised in Spanish Pepper Sauce is a flavorful and light dish that combines the delicate taste of halibut with a zesty Spanish pepper sauce. The dish is cooked with a medley of vegetables, prosciutto, and spices, creating a savory and aromatic sauce that perfectly complements the tender halibut fillets. It is a satisfying and wholesome dinner option for seafood lovers looking for a delicious and healthy meal.",
     "ingredients": [
@@ -2345,10 +2345,10 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "c866caf9-66b4-4d1e-9393-77864e233e66.jpg"
   },
   {
-    "id": "",
+    "id": "7abb973d-27f4-4022-8b54-4651c3049032",
     "name": "Pat's Spanish Omelet",
     "description": "A delicious and hearty Spanish omelet packed with sauteed vegetables, eggs, and flavorful seasonings. Perfect for a satisfying breakfast or brunch option.",
     "ingredients": [
@@ -2386,10 +2386,10 @@
     "type": "Breakfast",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "7abb973d-27f4-4022-8b54-4651c3049032.jpg"
   },
   {
-    "id": "",
+    "id": "62693617-c33a-49ca-a225-9f8bd6013a54",
     "name": "Crockpot Spanish Rice",
     "description": "Crockpot Spanish Rice is a flavorful and hearty dish made with ground beef, onions, green peppers, tomatoes, rice, and a blend of spices. It is a comforting and satisfying meal that is perfect for dinner.",
     "ingredients": [
@@ -2412,10 +2412,10 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "62693617-c33a-49ca-a225-9f8bd6013a54.jpg"
   },
   {
-    "id": "",
+    "id": "4de272b4-6179-4217-b835-4347113095d4",
     "name": "Oakville Grocery's Spanish Olive Mix",
     "description": "Oakville Grocery's Spanish Olive Mix is a flavorful and aromatic appetizer featuring a mix of unpitted Spanish olives marinated in olive oil, balsamic vinegar, garlic, herbs, and spices. The combination of different olives creates a visually appealing dish with a variety of textures and flavors. Perfect for serving as a starter or appetizer before a meal.",
     "ingredients": [
@@ -2440,10 +2440,10 @@
     "type": "Appetizer",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "4de272b4-6179-4217-b835-4347113095d4.jpg"
   },
   {
-    "id": "",
+    "id": "388510cb-4fe1-4eee-bf09-26fd31335b76",
     "name": "Octopus Spanish Style",
     "description": "A flavorful Spanish-style octopus dish simmered in a rich tomato sauce with spices and served over fresh cooked rice. This dish offers a unique blend of flavors and textures, making it a delightful meal for seafood lovers.",
     "ingredients": [
@@ -2467,10 +2467,10 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "388510cb-4fe1-4eee-bf09-26fd31335b76.jpg"
   },
   {
-    "id": "",
+    "id": "dc1c01de-ab78-42b9-b994-1f1f7d53bcbd",
     "name": "Sopa De Ajo - Spanish-Style Garlic Soup",
     "description": "Sopa De Ajo is a flavorful and hearty Spanish-style garlic soup that is perfect for a cozy dinner. This soup is rich in garlic and spices, accompanied by bread and optional eggs for added texture and protein. It's a comforting and satisfying meal that is sure to warm you up on a chilly evening.",
     "ingredients": [
@@ -2499,10 +2499,10 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "dc1c01de-ab78-42b9-b994-1f1f7d53bcbd.jpg"
   },
   {
-    "id": "",
+    "id": "ecc04556-2324-40f0-b8e3-98067927fb18",
     "name": "Sopa De Cebollita or Spanish Onion Soup (Rodriguez)",
     "description": "Sopa De Cebollita or Spanish Onion Soup by Chef Douglas Rodriguez is a hearty and savory soup featuring caramelized onions, skirt steak, and a flavorful broth with sherry, Worcestershire sauce, soy sauce, and balsamic vinegar. This dish offers a rich depth of flavors, making it perfect for a warm and satisfying dinner.",
     "ingredients": [
@@ -2542,10 +2542,10 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "ecc04556-2324-40f0-b8e3-98067927fb18.jpg"
   },
   {
-    "id": "",
+    "id": "d88bfcb6-e600-4e04-8b9f-059ad65316dd",
     "name": "Longganisa (Filipino-Style Sausages)",
     "description": "Longganisa is a Filipino-style sausage made from a mixture of ground beef and pork, seasoned with a blend of salt, sugar, soy sauce, vinegar, wine, saltpeter, pepper, and garlic. The mixture is cured for 5-6 days, stuffed into casings, and stored in a cooler until ready for use. To cook, the sausages are boiled and then pan-fried until they turn a dark caramel color, releasing flavorful juices and oil. Longganisa is commonly enjoyed with sinangag (garlic fried rice) and lightly salted tomatoes.",
     "ingredients": [
@@ -2577,10 +2577,10 @@
     "type": "Breakfast",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "d88bfcb6-e600-4e04-8b9f-059ad65316dd.jpg"
   },
   {
-    "id": "",
+    "id": "9af08526-c84c-431c-9ddf-40305c09404c",
     "name": "Filipino Cuisine Tips, 1 of 2",
     "description": "This Filipino cuisine recipe collection offers a blend of exotic and easy-to-prepare dishes. It includes traditional ingredients like bagoong (shrimp paste) and patis (fish sauce) that add unique flavors to the meals. Rice is a staple side dish, complemented by simple side dishes like tomato and onion salad. The recipes reflect the heart-healthy aspect of Filipino dining, where rice forms the bulk of the meal while meat dishes serve as flavor enhancers. Multiple main dishes may be served together, akin to a Chinese-style meal with a variety of courses.",
     "ingredients": [
@@ -2630,10 +2630,10 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "9af08526-c84c-431c-9ddf-40305c09404c.jpg"
   },
   {
-    "id": "",
+    "id": "416d6437-ca9a-4fa8-b4a1-d9d9370e9d7f",
     "name": "Filipino Cuisine Tips, 2 of 2",
     "description": "This Filipino cuisine recipe offers insights into traditional cooking techniques and ingredients used in Filipino dishes. The recipe includes tips on maintaining authenticity and provides information on ingredient substitutions for those without access to Filipino markets. The conversation between Manny Rothstein and Dennis Santiago sheds light on the nuances of Filipino cuisine, highlighting the importance of texture and flavor preferences within the Filipino community.",
     "ingredients": [
@@ -2661,7 +2661,7 @@
       " Still, this is one dish t seems to have a duality of texture preference within the Filipino community",
       " [One of those, it depends on how mom made it things",
       "] I included the mochiko for completeness sake",
-      " MR> Can you recommend any common American substitutes for some of the MR> authentic ingredients, for the sake of people living in parts of t MR> country without access to Filipino markets? Probably the best way to explain substitution is as follows: Ingredient Use Substitute Tamarind Sour Vitamin C = Lemon Juice Patis Salt Salt Ampalaya Bitter beats me? Everything else is pretty common I think",
+      " MR> Can you recommend any common American substitutes for some of the MR> authentic ingredients, for the sake of people living in parts of t MR> country without access to Filipino markets? Probably the best way to explain substitution is as follows: Ingredient Use Substitute Tamarind Sour Vitamin C \u003d Lemon Juice Patis Salt Salt Ampalaya Bitter beats me? Everything else is pretty common I think",
       " MR> I hope I am not being too \"nit picky\" with these questions",
       " If you MR> think I am, let me know and I will start posting as is immediately Not at all",
       " Hope this was what you wanted",
@@ -2673,10 +2673,10 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "416d6437-ca9a-4fa8-b4a1-d9d9370e9d7f.jpg"
   },
   {
-    "id": "",
+    "id": "174b8f51-93f6-4500-9566-29929f34eb2d",
     "name": "Filipino Rice",
     "description": "Filipino Rice is a flavorful and hearty dish made with a combination of rice, pork, bacon, eggs, soy sauce, and onions. It is a traditional Filipino meal that is perfect for a satisfying dinner.",
     "ingredients": [
@@ -2752,10 +2752,10 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "100 Servings",
-    "imageUrl": ""
+    "imageUrl": "174b8f51-93f6-4500-9566-29929f34eb2d.jpg"
   },
   {
-    "id": "",
+    "id": "81090cbe-a4c2-41b3-97da-95dbbe107694",
     "name": "Filipino \"Adobo\"-Style Chicken",
     "description": "Filipino \"Adobo\"-Style Chicken is a traditional Filipino dish made with chicken, vinegar, soy sauce, and garlic. The chicken is simmered in a flavorful sauce until tender and then browned to perfection. It is served with rice and is a popular savory dish in Filipino cuisine.",
     "ingredients": [
@@ -2780,10 +2780,10 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "81090cbe-a4c2-41b3-97da-95dbbe107694.jpg"
   },
   {
-    "id": "",
+    "id": "3c108ae3-f7e3-4a55-a8ff-0288461cd944",
     "name": "Ensaimadas - Filipino Recipe",
     "description": "Ensaimadas are a delicious Filipino pastry made with a rich dough filled with golden raisins and parmesan cheese. They are a labor-intensive but worth-it treat that can be enjoyed for breakfast or as a snack. This recipe yields a large batch that can be frozen for later enjoyment.",
     "ingredients": [
@@ -2826,10 +2826,10 @@
     "type": "Breakfast",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "3c108ae3-f7e3-4a55-a8ff-0288461cd944.jpg"
   },
   {
-    "id": "",
+    "id": "d235f6fd-a6fd-4b48-8023-e1d29a90749d",
     "name": "Maxanne's Japanese Okra",
     "description": "Maxanne's Japanese Okra is a delightful appetizer featuring boiled okra slices mixed with shaved bonito fish, soy sauce, and red pepper flakes. This refreshing dish is best enjoyed alongside Japanese rice, offering a burst of flavors with each bite. It is a light and flavorful starter that is perfect for any Japanese-inspired meal or as a standalone snack.",
     "ingredients": [
@@ -2850,10 +2850,10 @@
     "type": "Appetizer",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "d235f6fd-a6fd-4b48-8023-e1d29a90749d.jpg"
   },
   {
-    "id": "",
+    "id": "817d6024-51ae-4661-9eae-aae8b12d607a",
     "name": "Halibut with Japanese Flavors",
     "description": "Halibut with Japanese flavors is a delicious and healthy dish featuring tender halibut fillets coated in a savory miso paste, topped with seaweed and scallions, and baked to perfection. This recipe offers a taste of Japan with its umami-rich miso and nori seaweed, creating a flavorful and satisfying meal.",
     "ingredients": [
@@ -2887,10 +2887,10 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "817d6024-51ae-4661-9eae-aae8b12d607a.jpg"
   },
   {
-    "id": "",
+    "id": "39d7053c-aeae-45bd-8d7a-8864ba8f2824",
     "name": "Chowan Mushi - Japanese Steamed Egg Custard",
     "description": "Chowan Mushi is a traditional Japanese dish that consists of a delicate and creamy steamed egg custard mixed with shrimp and peas. It is a light and flavorful dish that is perfect for a satisfying dinner.",
     "ingredients": [
@@ -2913,10 +2913,10 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "39d7053c-aeae-45bd-8d7a-8864ba8f2824.jpg"
   },
   {
-    "id": "",
+    "id": "45f4feea-af50-4bc9-b6f9-82ba6a7cbdd6",
     "name": "Martha Stewart's Japanese Salad Dressing",
     "description": "A flavorful and savory Japanese salad dressing with a mix of miso, sugar, mirin wine, soy sauce, and sesame oil. Served over a bed of iceberg lettuce and thinly sliced carrots, this dressing adds a delicious Asian twist to your salad.",
     "ingredients": [
@@ -2940,10 +2940,10 @@
     "type": "Salad",
     "cuisine": "Japanese",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "45f4feea-af50-4bc9-b6f9-82ba6a7cbdd6.jpg"
   },
   {
-    "id": "",
+    "id": "8c1a1a96-fc91-4b7b-b60c-ef462c3bde5a",
     "name": "Roasted Japanese Eggplant with Green Herb Sau",
     "description": "This recipe features roasted Japanese eggplants marinated in a flavorful green herb sauce made from fresh cilantro, Italian parsley, ground cumin seeds, lemon zest, and lemon juice. The eggplants are first roasted until soft and then peeled to maintain their shape. The sauce is then blended and poured over the eggplants to marinate for at least an hour, allowing the flavors to infuse. This dish offers a delicious and refreshing dinner option with a unique blend of herbs and citrus flavors.",
     "ingredients": [
@@ -2966,10 +2966,10 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "8c1a1a96-fc91-4b7b-b60c-ef462c3bde5a.jpg"
   },
   {
-    "id": "",
+    "id": "33df0ef3-a1d6-4611-bcd1-6cbd675b2091",
     "name": "Japanese Duck",
     "description": "This Japanese Duck recipe features succulent duck breasts marinated in a flavorful blend of spices and served with a delicious nut and chilli sauce. The dish is accompanied by a colorful and vibrant mix of mango slices, long beans, baby sweetcorn, and mung beans, creating a well-balanced and visually appealing dinner option.",
     "ingredients": [
@@ -3009,10 +3009,10 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "33df0ef3-a1d6-4611-bcd1-6cbd675b2091.jpg"
   },
   {
-    "id": "",
+    "id": "a20dbc07-512c-48a5-944d-5646f5ec594a",
     "name": "Japanese Mesclun Salad",
     "description": "This Japanese Mesclun Salad is a light and refreshing dish perfect for a healthy lunch option. The combination of vinegar, olive oil, and seasonings creates a flavorful dressing that complements the fresh mesclun salad greens. It's a quick and easy recipe that is both nutritious and satisfying.",
     "ingredients": [
@@ -3034,10 +3034,10 @@
     "type": "Lunch",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "a20dbc07-512c-48a5-944d-5646f5ec594a.jpg"
   },
   {
-    "id": "",
+    "id": "ce11f731-dff8-4c9d-98db-657a04c2db67",
     "name": "Japanese Pear Salad",
     "description": "This Japanese Pear Salad is a refreshing and light appetizer that combines the sweetness of fresh pears with tangy vinegar and a variety of vegetables. It's a perfect starter to awaken your taste buds before a meal.",
     "ingredients": [
@@ -3064,10 +3064,10 @@
     "type": "Appetizer",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "ce11f731-dff8-4c9d-98db-657a04c2db67.jpg"
   },
   {
-    "id": "",
+    "id": "54cae0cc-89d9-4f0b-b9ea-3d7d39214183",
     "name": "Japanese Prawn And Noodle Salad",
     "description": "A refreshing and flavorful Japanese salad dish featuring a delightful fusion of noodles, prawns, and a variety of vegetables dressed with rice vinegar, soy sauce, and ginger. Perfect for a light and satisfying lunch or as part of an oriental meal.",
     "ingredients": [
@@ -3100,10 +3100,10 @@
     "type": "Lunch",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "54cae0cc-89d9-4f0b-b9ea-3d7d39214183.jpg"
   },
   {
-    "id": "",
+    "id": "86e65b88-2071-4c3c-9763-1160f280d1b0",
     "name": "Japanese Spring Rolls",
     "description": "These Japanese Spring Rolls are a delightful appetizer that combines the flavors of Japanese cuisine with a crispy and savory pastry shell filled with a mix of scallops, rock shrimp, mushrooms, and Japanese salad leaves. The dressing adds a tangy and savory touch, while the garnish of caviar and gold leaf elevates the presentation. Perfect for a special gathering or as a starter to a Japanese-inspired meal.",
     "ingredients": [
@@ -3132,10 +3132,10 @@
     "type": "Appetizer",
     "cuisine": "Japanese",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "86e65b88-2071-4c3c-9763-1160f280d1b0.jpg"
   },
   {
-    "id": "",
+    "id": "01517712-34ff-4520-aeb5-ef78b66cbc5b",
     "name": "Cha Gio (Vietnamese Spring Rolls)",
     "description": "Cha Gio, also known as Vietnamese Spring Rolls, are a popular appetizer in Vietnamese cuisine. These crispy and flavorful rolls are filled with a mixture of ground lean pork, crab meat, shrimp, and various seasonings, wrapped in rice paper, and deep-fried until golden brown. They are typically served with fresh herbs like lettuce, cilantro, and mint, along with a dipping sauce called nuoc cham. Enjoyed as a light and delicious starter, Vietnamese Spring Rolls are a delightful way to begin a meal.",
     "ingredients": [
@@ -3172,10 +3172,10 @@
     "type": "Appetizer",
     "cuisine": "Vietnamese",
     "servings": "20 Servings",
-    "imageUrl": ""
+    "imageUrl": "01517712-34ff-4520-aeb5-ef78b66cbc5b.jpg"
   },
   {
-    "id": "",
+    "id": "c5f10f0c-c6ea-4020-9822-335f401c5913",
     "name": "Vietnamese Barbecued Duck Breast",
     "description": "This Vietnamese Barbecued Duck Breast recipe features tender duck breasts marinated in a flavorful mixture of oil, vinegar, garlic, ginger, and dried chile peppers. The marinated duck breasts are then grilled to perfection, resulting in a delicious and aromatic dish that pairs well with rice. Perfect for a special dinner occasion or a culinary adventure at home.",
     "ingredients": [
@@ -3196,10 +3196,10 @@
     "type": "Dinner",
     "cuisine": "Vietnamese",
     "servings": "2 Servings",
-    "imageUrl": ""
+    "imageUrl": "c5f10f0c-c6ea-4020-9822-335f401c5913.jpg"
   },
   {
-    "id": "",
+    "id": "9e40f86e-f201-4442-9a5e-7fcc954b78a7",
     "name": "Vietnamese Bbq Duck Breast",
     "description": "Vietnamese BBQ Duck Breast is a flavorful and aromatic dish that combines the richness of duck with the vibrant flavors of garlic, ginger, and chile peppers. The marinade infuses the duck with a tangy and spicy kick, creating a succulent and tender meat. This meal is perfect for a special dinner or a festive gathering, offering a taste of Vietnamese cuisine with a barbecue twist.",
     "ingredients": [
@@ -3220,10 +3220,10 @@
     "type": "Dinner",
     "cuisine": "Vietnamese",
     "servings": "2 Servings",
-    "imageUrl": ""
+    "imageUrl": "9e40f86e-f201-4442-9a5e-7fcc954b78a7.jpg"
   },
   {
-    "id": "",
+    "id": "ee8347f8-f4fc-40e6-af5c-0a57c5fd26fd",
     "name": "Vietnamese Chicken Salad (Goi-Ga)",
     "description": "This Vietnamese Chicken Salad, also known as Goi-Ga, is a refreshing and flavorful dish that combines shredded cabbage, mint leaves, cooked chicken, and a zesty dressing. It's a light and healthy salad with a perfect balance of textures and flavors. The dressing with garlic, sugar, and vinegar or lime juice adds a tangy kick to the salad. Enjoy this salad as a light and satisfying meal for lunch or dinner.",
     "ingredients": [
@@ -3242,10 +3242,10 @@
     "type": "Lunch",
     "cuisine": "Vietnamese",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "ee8347f8-f4fc-40e6-af5c-0a57c5fd26fd.jpg"
   },
   {
-    "id": "",
+    "id": "1e831a54-4269-46b5-8936-32403d482bd7",
     "name": "Vietnamese Chicken Salad with Hot Tahini Sauce",
     "description": "This Vietnamese Chicken Salad with Hot Tahini Sauce is a flavorful and spicy dish that combines tender chicken strips with crunchy vegetables like bok choy, carrots, and green onions. The hot tahini sauce adds a kick of heat and richness to the salad, making it a satisfying and vibrant lunch option. Serve this salad with the spicy dressing on the side for a customizable heat level.",
     "ingredients": [
@@ -3281,10 +3281,10 @@
     "type": "Lunch",
     "cuisine": "Vietnamese",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "1e831a54-4269-46b5-8936-32403d482bd7.jpg"
   },
   {
-    "id": "",
+    "id": "643e0069-53c4-4c91-b477-3e8897f2dd31",
     "name": "Vietnamese Chicken Salad with Tahini Sauce",
     "description": "Vietnamese Chicken Salad with Tahini Sauce is a flavorful and spicy dish that combines tender chicken strips with crunchy vegetables like green onions, carrot, and bok choy. The dressing, made with tahini, Chinese hot oil, soy sauce, and other ingredients, adds a spicy kick to the salad. Served with peanuts on top, this salad is a satisfying and delicious option for a light lunch or dinner.",
     "ingredients": [
@@ -3305,10 +3305,10 @@
     "type": "Lunch or Dinner",
     "cuisine": "Vietnamese",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "643e0069-53c4-4c91-b477-3e8897f2dd31.jpg"
   },
   {
-    "id": "",
+    "id": "08598075-d3b0-4aed-a831-e806ece8afbe",
     "name": "Vietnamese Chili Sauce (Dip)",
     "description": "A flavorful and spicy Vietnamese chili sauce that serves as a delicious dip for chicken or other dishes. This sauce has a perfect balance of heat, sourness, and umami from the fish sauce.",
     "ingredients": [
@@ -3352,10 +3352,10 @@
     "type": "Snack",
     "cuisine": "Vietnamese",
     "servings": "1 Batch",
-    "imageUrl": ""
+    "imageUrl": "08598075-d3b0-4aed-a831-e806ece8afbe.jpg"
   },
   {
-    "id": "",
+    "id": "0f14675a-533d-4816-991e-1cbfb0d5f457",
     "name": "Vietnamese Coffee",
     "description": "Vietnamese Coffee is a traditional and popular drink in Vietnam. It is a sweet and strong coffee beverage that is perfect for a quick pick-me-up or a relaxing break during the day. The combination of dark-roast coffee and sweetened condensed milk creates a unique and delightful flavor that is enjoyed by coffee enthusiasts worldwide.",
     "ingredients": [
@@ -3378,10 +3378,10 @@
     "type": "Snack",
     "cuisine": "Vietnamese",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "0f14675a-533d-4816-991e-1cbfb0d5f457.jpg"
   },
   {
-    "id": "",
+    "id": "c38d7ea5-4bc0-4ef8-9044-03130e2b3bfc",
     "name": "Vietnamese Corn Chowder with Crab (Chao Bap Voi Cua)",
     "description": "A delicious and hearty Vietnamese corn chowder with crab, known as Chao Bap Voi Cua, that combines the sweetness of corn with the savory flavors of crab in a creamy and flavorful broth. This soup is perfect for a comforting and satisfying lunch.",
     "ingredients": [
@@ -3406,10 +3406,10 @@
     "type": "Lunch",
     "cuisine": "Vietnamese",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "c38d7ea5-4bc0-4ef8-9044-03130e2b3bfc.jpg"
   },
   {
-    "id": "",
+    "id": "acddf28e-8dd2-40e7-939d-0afebe9eb64c",
     "name": "Vietnamese Crab Spring Rolls",
     "description": "Vietnamese Crab Spring Rolls are a delightful appetizer featuring a flavorful filling of ground pork, crab meat, vegetables, and noodles wrapped in rice paper and deep-fried until crispy and golden brown. These spring rolls are served with fresh herbs and lettuce, providing a refreshing and satisfying start to a meal.",
     "ingredients": [
@@ -3422,7 +3422,7 @@
       "1 c Flaked crab meat",
       "1 c Grated carrot",
       "1 c Bean sprouts; tails removed",
-      "4 Shallots; minced -=OR=- Onion",
+      "4 Shallots; minced OR Onion",
       "2 c Warm water",
       "1/4 c Sugar",
       "16 12\" rice paper wrappers (dried)",
@@ -3463,10 +3463,10 @@
     "type": "Appetizer",
     "cuisine": "Vietnamese",
     "servings": "16 Servings",
-    "imageUrl": ""
+    "imageUrl": "acddf28e-8dd2-40e7-939d-0afebe9eb64c.jpg"
   },
   {
-    "id": "",
+    "id": "0c5f1d89-48dc-4f3b-8dd2-f4503c130196",
     "name": "Halkoum (Turkish Delight)",
     "description": "A traditional Turkish sweet treat known for its chewy and fragrant texture, flavored with orange blossom water or rose water, and garnished with chopped nuts. It is a delightful confection that is enjoyed as a dessert or snack.",
     "ingredients": [
@@ -3503,10 +3503,10 @@
     "type": "Dessert",
     "cuisine": "Turkish",
     "servings": "64 Servings",
-    "imageUrl": ""
+    "imageUrl": "0c5f1d89-48dc-4f3b-8dd2-f4503c130196.jpg"
   },
   {
-    "id": "",
+    "id": "135577a6-96ca-4f12-98be-145c495a5277",
     "name": "Sebze Bastisi (Vegetable Stew - Turkish)",
     "description": "Sebze Bastisi is a delicious and hearty vegetable stew made with eggplant, zucchini, green peppers, and string beans, cooked in a flavorful broth and garnished with parsley. This traditional Turkish dish is a perfect main course for lunch or dinner, offering a nutritious and satisfying meal.",
     "ingredients": [
@@ -3542,10 +3542,10 @@
     "type": "Main Course",
     "cuisine": "Turkish",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "135577a6-96ca-4f12-98be-145c495a5277.jpg"
   },
   {
-    "id": "",
+    "id": "e0a9bd65-76db-4793-9c5b-b2784a046899",
     "name": "Red Lentil Soup (Turkish)",
     "description": "This Turkish Red Lentil Soup is a hearty and comforting dish made with red lentils, meat stock, onions, and a creamy egg yolk mixture. It is a flavorful soup with a velvety texture, perfect for a satisfying dinner. Serve it with crispy bread cubes for a delicious meal.",
     "ingredients": [
@@ -3580,10 +3580,10 @@
     "type": "Dinner",
     "cuisine": "Turkish",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "e0a9bd65-76db-4793-9c5b-b2784a046899.jpg"
   },
   {
-    "id": "",
+    "id": "47817540-1906-4d94-89fe-721559681a8f",
     "name": "Red Lentil Soup with Rice (Turkish)",
     "description": "This Turkish Red Lentil Soup with Rice is a hearty and comforting dish that is perfect for a cold day. The soup is packed with protein from the red lentils and rice, making it a satisfying and nutritious meal. The addition of onions, potatoes, and paprika adds depth and flavor to the soup, creating a delicious and warming bowl of goodness. Serve this soup with crusty bread for a complete and filling meal.",
     "ingredients": [
@@ -3606,10 +3606,10 @@
     "type": "Lunch or Dinner",
     "cuisine": "Turkish",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "47817540-1906-4d94-89fe-721559681a8f.jpg"
   },
   {
-    "id": "",
+    "id": "1c6a1342-795e-471e-8f05-9aade7cd5fa2",
     "name": "Lokum (Turkish Delight)",
     "description": "Lokum, also known as Turkish Delight, is a sweet and chewy confection that is flavored with rose water and colored with a hint of pink. It is typically enjoyed as a delightful dessert or sweet treat.",
     "ingredients": [
@@ -3651,10 +3651,10 @@
     "type": "Dessert",
     "cuisine": "Turkish",
     "servings": "16 Servings",
-    "imageUrl": ""
+    "imageUrl": "1c6a1342-795e-471e-8f05-9aade7cd5fa2.jpg"
   },
   {
-    "id": "",
+    "id": "ad6eb41d-a31c-4a92-bc6e-f5dfe66ec976",
     "name": "Stuffed Zucchini, Turkish Style",
     "description": "Stuffed Zucchini, Turkish Style is a flavorful and hearty dish where zucchini halves are filled with a delicious mixture of cheeses, herbs, and spices. This meal is perfect for dinner, offering a satisfying and nutritious option with a Turkish twist.",
     "ingredients": [
@@ -3685,10 +3685,10 @@
     "type": "Dinner",
     "cuisine": "Turkish",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "ad6eb41d-a31c-4a92-bc6e-f5dfe66ec976.jpg"
   },
   {
-    "id": "",
+    "id": "9f8d0735-6374-4383-8da8-d9dab27c879a",
     "name": "Simit (Turkish Croissant with Sesame Seeds)",
     "description": "Simit is a traditional Turkish snack that resembles a croissant with sesame seeds. It is a delicious pastry that is perfect for a light snack or a tea-time treat.",
     "ingredients": [
@@ -3715,10 +3715,10 @@
     "type": "Snack",
     "cuisine": "Turkish",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "9f8d0735-6374-4383-8da8-d9dab27c879a.jpg"
   },
   {
-    "id": "",
+    "id": "1dfd5a5c-17ed-4ac0-896a-bb2def881a42",
     "name": "Cold Turkish Green Tomato Soup",
     "description": "A refreshing and vibrant Cold Turkish Green Tomato Soup perfect for a light and cool lunch option. This soup is packed with the flavors of green tomatoes, yogurt, bell pepper, and dill, topped with a sprinkle of feta cheese for a delightful finish.",
     "ingredients": [
@@ -3743,10 +3743,10 @@
     "type": "Lunch",
     "cuisine": "Turkish",
     "servings": "7 servings",
-    "imageUrl": ""
+    "imageUrl": "1dfd5a5c-17ed-4ac0-896a-bb2def881a42.jpg"
   },
   {
-    "id": "",
+    "id": "b70692df-30e9-4e9d-a0b7-39280d355232",
     "name": "Menemen (Turkish Scrambled Eggs)",
     "description": "Menemen is a traditional Turkish breakfast dish consisting of scrambled eggs cooked with tomatoes, peppers, and onions. The combination of flavors from the fresh vegetables and spices creates a delicious and hearty meal that is perfect for starting the day. Serve the Menemen on warm Turkish bread for an authentic experience.",
     "ingredients": [
@@ -3777,10 +3777,10 @@
     "type": "Breakfast",
     "cuisine": "Turkish",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "b70692df-30e9-4e9d-a0b7-39280d355232.jpg"
   },
   {
-    "id": "",
+    "id": "738c6be6-d2fa-4f7c-813b-dc6471972372",
     "name": "Grilled Fish in Turkish Marinade of Yogurt, Coriander,",
     "description": "Grilled Fish in Turkish Marinade of Yogurt and Coriander is a flavorful and easy-to-make dish that combines the tenderness of yogurt with the exotic spices of cardamom and coriander. This dish is perfect for a busy day when you crave a burst of flavor but have limited time to cook. The marinade not only enhances the moisture and taste of the fish but also provides a delightful balance of tartness and sweetness. Serve the grilled fish with a garnish of chopped dill and a lemon wedge for a refreshing and satisfying dinner.",
     "ingredients": [
@@ -3811,10 +3811,10 @@
     "type": "Dinner",
     "cuisine": "Turkish",
     "servings": "6 Servings",
-    "imageUrl": ""
+    "imageUrl": "738c6be6-d2fa-4f7c-813b-dc6471972372.jpg"
   },
   {
-    "id": "",
+    "id": "ccdc350b-cc79-422a-9598-74f05c419388",
     "name": "Nyonya (Malaysian) Fried Rice - 2nd Princess Beeling Ong",
     "description": "Nyonya Fried Rice is a flavorful and aromatic dish that combines cooked rice with eggs, dried shrimp, mixed vegetables, and mushrooms, seasoned with a blend of spices and served on a bed of shredded lettuce. It offers a harmonious balance of textures and flavors, making it a popular choice for a satisfying lunch.",
     "ingredients": [
@@ -3845,10 +3845,10 @@
     "type": "Lunch",
     "cuisine": "Malaysian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "ccdc350b-cc79-422a-9598-74f05c419388.jpg"
   },
   {
-    "id": "",
+    "id": "54593dd9-5604-45a5-960b-89b40a0483fe",
     "name": "Malaysian Chicken Pizza",
     "description": "A fusion of Malaysian and Italian cuisines, this Malaysian Chicken Pizza is a spicy and flavorful dish that combines the traditional pizza concept with Asian-inspired flavors. The sweet and spicy chicken topping, along with the blend of cheeses and scallions, creates a unique and satisfying meal that is sure to delight your taste buds. Perfect for a dinner gathering or a special treat for yourself.",
     "ingredients": [
@@ -3895,15 +3895,15 @@
       " As modified in above recipe per MasterCook analysis: 180 calories, 4",
       "5g fat(22",
       "1%CFF), 0",
-      "6g fiber Weight Watcher Points= 4 points per slice This is a very flavorful (spicy) recipe! Satisfying for those suffering weight watcher boredom!"
+      "6g fiber Weight Watcher Points = 4 points per slice This is a very flavorful (spicy) recipe! Satisfying for those suffering weight watcher boredom!"
     ],
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "8 servings",
-    "imageUrl": ""
+    "imageUrl": "54593dd9-5604-45a5-960b-89b40a0483fe.jpg"
   },
   {
-    "id": "",
+    "id": "0cba855a-e80f-49b7-af21-d1003770499e",
     "name": "Malaysian Dream",
     "description": "Malaysian Dream is a tropical cocktail inspired by the Malaysian version of piña colada. It combines the flavors of pineapple juice, coconut milk, vodka, and grenadine syrup to create a refreshing and exotic drink. The cocktail is perfect for a tropical getaway or a relaxing evening at home.",
     "ingredients": [
@@ -3920,10 +3920,10 @@
     "type": "Cocktail",
     "cuisine": "Malaysian",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "0cba855a-e80f-49b7-af21-d1003770499e.jpg"
   },
   {
-    "id": "",
+    "id": "ab441205-37e1-4982-962b-99cce144ab6b",
     "name": "Malaysian Prawn And Spinach Curry",
     "description": "A flavorful Malaysian curry dish featuring prawns and spinach cooked in a creamy and aromatic sauce. Serve this delicious curry with seasoned rice for a satisfying and exotic dinner experience.",
     "ingredients": [
@@ -3954,10 +3954,10 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "ab441205-37e1-4982-962b-99cce144ab6b.jpg"
   },
   {
-    "id": "",
+    "id": "f15e7423-9a4f-4d9e-938a-d2c7dea33125",
     "name": "Malaysian Stir-Fry with Fragrant Thai Rice",
     "description": "This Malaysian Stir-Fry with Fragrant Thai Rice is a delicious and fragrant dish that combines a mix of fresh vegetables, coconut milk, and aromatic spices. The stir-fried vegetables are cooked to perfection, creating a colorful and flavorful dish that is both satisfying and nutritious. Served with steamed fragrant Thai rice, this meal is perfect for a hearty dinner that will transport you to the vibrant flavors of Malaysia.",
     "ingredients": [
@@ -3987,10 +3987,10 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "f15e7423-9a4f-4d9e-938a-d2c7dea33125.jpg"
   },
   {
-    "id": "",
+    "id": "7460a02e-3488-4365-a549-cf62b88a608c",
     "name": "Besengek Telor (Telor Is the Malaysian Word for Egg).",
     "description": "Besengek Telor is a flavorful Malaysian dish made with boiled eggs cooked in a rich and creamy coconut milk sauce infused with a blend of traditional spices. The combination of red onions, coriander, cumin, turmeric, Spanish pepper, and coconut milk creates a delicious and aromatic sauce that coats the tender egg pieces. This dish is perfect for a hearty and satisfying dinner, showcasing the unique flavors of Malaysian cuisine.",
     "ingredients": [
@@ -4000,10 +4000,10 @@
       "2 tb Ketoembar; (coriander)",
       "1 tb Djinten; (cummin)",
       "1 ts Koenjit; (kurkuma)",
-      "1 Lombok; (= spanish pepper)",
+      "1 Lombok; (spanish pepper)",
       "1 Piece of asem; ( or a drop of vinegar)",
       "Salt",
-      "Creamy santen; (= coconutmilk)"
+      "Creamy santen; (coconutmilk)"
     ],
     "instructions": [
       "Boil the eggs, till they are almost hard boiled Fry the ketoembar and djinten till they are dry Chop the onions and pepper very small, mix them with the left spices, the salt + asem, fry everything in oil",
@@ -4012,10 +4012,10 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "7460a02e-3488-4365-a549-cf62b88a608c.jpg"
   },
   {
-    "id": "",
+    "id": "3c846a54-2196-4d1a-9502-4f81d1268869",
     "name": "Malaysian Curry Paste",
     "description": "This Malaysian Curry Paste recipe is a versatile and flavorful base for many Malaysian dishes. It combines a blend of aromatic spices, herbs, and seasonings to create a rich and fragrant paste. Use it to enhance the flavors of curries, soups, and stir-fries, adding a delicious Malaysian twist to your dishes.",
     "ingredients": [
@@ -4045,10 +4045,10 @@
     "type": "Condiment",
     "cuisine": "Malaysian",
     "servings": "1 Cup",
-    "imageUrl": ""
+    "imageUrl": "3c846a54-2196-4d1a-9502-4f81d1268869.jpg"
   },
   {
-    "id": "",
+    "id": "923faa91-e48b-489a-a0ab-d946a97a2bb9",
     "name": "Malaysian Fish with Pears",
     "description": "This Malaysian Fish with Pears recipe combines the delicate flavors of white-fleshed fish with the sweetness of Bartlett pears, infused with a blend of Asian-inspired ingredients like soy sauce, sesame oil, and chile-garlic paste. The dish is steamed to perfection, creating a tender and flavorful main course that is perfect for a dinner setting. Garnished with cilantro leaves and lime wedges, this dish offers a delightful fusion of Malaysian and Western culinary influences.",
     "ingredients": [
@@ -4084,10 +4084,10 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "2 Servings",
-    "imageUrl": ""
+    "imageUrl": "923faa91-e48b-489a-a0ab-d946a97a2bb9.jpg"
   },
   {
-    "id": "",
+    "id": "63d0a372-8cb9-483a-8b0f-e8dd3a68ceba",
     "name": "Malaysian Hot Noodles with Tofu",
     "description": "A flavorful and spicy Malaysian dish featuring hot noodles with tofu, ginger, and a mix of Asian spices. This dish is a perfect blend of textures and flavors, making it a satisfying meal option for dinner or lunch.",
     "ingredients": [
@@ -4123,10 +4123,10 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "2 Servings",
-    "imageUrl": ""
+    "imageUrl": "63d0a372-8cb9-483a-8b0f-e8dd3a68ceba.jpg"
   },
   {
-    "id": "",
+    "id": "b3e38e03-d50d-4abf-82da-6882bd289eba",
     "name": "Malaysian Peanut Sauce",
     "description": "This Malaysian Peanut Sauce is a flavorful and rich sauce that combines the nuttiness of peanut butter with the aromatic blend of garlic, onion, chiles, and shrimp paste. It has a hint of sweetness from palm or brown sugar and a tangy kick from lime juice and soy sauce. This versatile sauce can be served as a condiment or used to enhance the flavor of various dishes.",
     "ingredients": [
@@ -4167,10 +4167,10 @@
     "type": "Sauce",
     "cuisine": "Malaysian",
     "servings": "1 Cups",
-    "imageUrl": ""
+    "imageUrl": "b3e38e03-d50d-4abf-82da-6882bd289eba.jpg"
   },
   {
-    "id": "",
+    "id": "21fc1e51-c230-4827-b721-92452534d9bd",
     "name": "Empanadas (Brazilian Meat Pies)",
     "description": "Brazilian Empanadas, also known as Brazilian Meat Pies, are a popular appetizer in Brazil. These savory pastries are filled with a delicious mixture of chicken, olives, and peas, seasoned with garlic, tomato paste, and cayenne pepper. The dough is soft and delicate, encasing the flavorful filling. These empanadas are perfect for serving at parties, gatherings, or as a tasty snack.",
     "ingredients": [
@@ -4236,10 +4236,10 @@
     "type": "Appetizer",
     "cuisine": "Brazilian",
     "servings": "50 Servings",
-    "imageUrl": ""
+    "imageUrl": "21fc1e51-c230-4827-b721-92452534d9bd.jpg"
   },
   {
-    "id": "",
+    "id": "3c7f9b6e-658e-4d3f-881b-d2b8b647ac89",
     "name": "Ceia De Natal (Brazilian Christmas Turkey) Pt 2",
     "description": "Ceia De Natal, also known as Brazilian Christmas Turkey, is a traditional and festive dish served during Christmas celebrations in Brazil. This flavorful and succulent turkey is marinated with a rich blend of ingredients and roasted to perfection, resulting in tender meat with a crispy golden skin. The dish is often accompanied by peaches, prunes, and a savory dressing, making it a delightful centerpiece for a Christmas dinner gathering.",
     "ingredients": [
@@ -4253,10 +4253,10 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "8 Servings",
-    "imageUrl": ""
+    "imageUrl": "3c7f9b6e-658e-4d3f-881b-d2b8b647ac89.jpg"
   },
   {
-    "id": "",
+    "id": "4446f24a-8628-4c2d-9047-c74719481142",
     "name": "Mariscada - Brazilian Fish Stew",
     "description": "Mariscada is a traditional Brazilian fish stew that is rich in flavor and packed with a variety of seafood including clams, mussels, codfish, shrimp, and crabmeat. The stew is seasoned with onions, tomatoes, garlic, cilantro, saffron, and a blend of spices for a delicious and hearty meal. Perfect for a special dinner occasion or a cozy night in, this Mariscada recipe brings the taste of Brazilian coastal cuisine to your table.",
     "ingredients": [
@@ -4293,10 +4293,10 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "10 Servings",
-    "imageUrl": ""
+    "imageUrl": "4446f24a-8628-4c2d-9047-c74719481142.jpg"
   },
   {
-    "id": "",
+    "id": "6f094125-bf64-4cef-9dfe-958574e74a2b",
     "name": "Salmon with Brazilian Rub",
     "description": "A flavorful Brazilian-inspired dish featuring salmon fillets marinated in a zesty mixture of citrus juices, brown sugar, chili powder, and garlic. The salmon is then baked to perfection, creating a delicious and satisfying meal. Serve with wild and brown rice and steamed broccoli for a complete dining experience.",
     "ingredients": [
@@ -4326,10 +4326,10 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "6f094125-bf64-4cef-9dfe-958574e74a2b.jpg"
   },
   {
-    "id": "",
+    "id": "d06f78b4-80b2-4a82-9cc7-1c2dfcf55bb6",
     "name": "Quick Greens, Brazilian Style",
     "description": "Quick Greens, Brazilian Style is a vibrant and flavorful dish that features tender collard greens cooked with olive oil, garlic, and seasonings. This recipe is a traditional Brazilian side dish that can also be enjoyed as a light and nutritious lunch option.",
     "ingredients": [
@@ -4353,10 +4353,10 @@
     "type": "Lunch",
     "cuisine": "Brazilian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "d06f78b4-80b2-4a82-9cc7-1c2dfcf55bb6.jpg"
   },
   {
-    "id": "",
+    "id": "c545d507-48a9-431f-829d-fb4f19404712",
     "name": "Brazilian Beer Chicken",
     "description": "This Brazilian Beer Chicken recipe features succulent grilled chicken marinated in beer, oil, mustard, and flavorful spices. The two-day marination process ensures the chicken is tender and infused with the rich flavors of Brazilian beer. It is a perfect main dish to enjoy with sides like Crazy Rice or Brazilian Black Beans with Bacon.",
     "ingredients": [
@@ -4399,10 +4399,10 @@
     "type": "Main Dish",
     "cuisine": "Brazilian",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "c545d507-48a9-431f-829d-fb4f19404712.jpg"
   },
   {
-    "id": "",
+    "id": "475f673b-b372-4e7b-a559-44f1a6b96a36",
     "name": "Brazilian Black Beans",
     "description": "Brazilian Black Beans is a hearty and flavorful dish made with soaked black beans, a variety of vegetables, and a blend of spices. The beans are simmered until tender along with onions, garlic, carrot, bell pepper, and tomatoes. The addition of orange juice and cilantro adds a unique twist to this traditional Brazilian dish. Seasoned with salt, pepper, and cayenne pepper, this dish is a comforting and nutritious dinner option. Serve the Brazilian Black Beans with dollops of sour cream or wrap it in a tortilla with salsa and lettuce for a satisfying meal.",
     "ingredients": [
@@ -4430,10 +4430,10 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "1 servings",
-    "imageUrl": ""
+    "imageUrl": "475f673b-b372-4e7b-a559-44f1a6b96a36.jpg"
   },
   {
-    "id": "",
+    "id": "bd88ec43-c967-4aa8-b106-b29c4be6ebbe",
     "name": "Brazilian Fish Stew",
     "description": "A flavorful and hearty stew made with boneless whitefish fillets, shrimp, tomatoes, onions, cilantro, garlic, jalapeno, and bell peppers, seasoned with lime juice and spices. This Brazilian Fish Stew is a vibrant and delicious dish that is perfect for a satisfying dinner meal.",
     "ingredients": [
@@ -4473,10 +4473,10 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "6 servings",
-    "imageUrl": ""
+    "imageUrl": "bd88ec43-c967-4aa8-b106-b29c4be6ebbe.jpg"
   },
   {
-    "id": "",
+    "id": "bdcaaedb-593b-438a-aa2a-686b97d17c80",
     "name": "Canja ( Brazilian Style Chicken Soup)",
     "description": "Canja is a traditional Brazilian chicken soup that is hearty, comforting, and perfect for warming up on a cold evening. This flavorful soup is made with a combination of chicken, vegetables, rice, and herbs, creating a wholesome and satisfying meal. The rich broth, tender chicken, and aromatic herbs make Canja a delicious and nourishing option for dinner.",
     "ingredients": [
@@ -4512,10 +4512,10 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "1 Servings",
-    "imageUrl": ""
+    "imageUrl": "bdcaaedb-593b-438a-aa2a-686b97d17c80.jpg"
   },
   {
-    "id": "",
+    "id": "ac0d98f9-4020-4244-8369-b16f7eacf22f",
     "name": "Enchiladas American Style",
     "description": "Enchiladas American Style is a flavorful and hearty dish made with fried tortillas layered with chili, cheese, vegetables, and enchilada sauce. It is a satisfying and comforting dinner option that combines savory flavors and textures, perfect for a family meal or gathering.",
     "ingredients": [
@@ -4541,10 +4541,10 @@
     "type": "Dinner",
     "cuisine": "American",
     "servings": "4 Servings",
-    "imageUrl": ""
+    "imageUrl": "ac0d98f9-4020-4244-8369-b16f7eacf22f.jpg"
   },
   {
-    "id": "",
+    "id": "3c52f9e9-c419-4d48-b793-7a975111f9fc",
     "name": "Great American Steakhouse Balsamic Dijon Dipping Sauce-0 Poi",
     "description": "This Great American Steakhouse Balsamic Dijon Dipping Sauce is a flavorful and tangy sauce that pairs perfectly with steak or other grilled meats. It combines the sweetness of honey mustard with the tanginess of balsamic vinegar, creating a delicious dipping sauce that enhances the flavors of your dish.",
     "ingredients": [
@@ -4566,10 +4566,10 @@
     "type": "Sauce",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "3c52f9e9-c419-4d48-b793-7a975111f9fc.jpg"
   },
   {
-    "id": "",
+    "id": "9b2f1995-8261-40a1-acab-7c21a3a83c57",
     "name": "Great American Steakhouse Cheese Dipping Sauce - 3 Points",
     "description": "A delicious and creamy cheese dipping sauce that is perfect for appetizers or snacks.",
     "ingredients": [
@@ -4604,10 +4604,10 @@
     "type": "Snack",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "9b2f1995-8261-40a1-acab-7c21a3a83c57.jpg"
   },
   {
-    "id": "",
+    "id": "24869267-6821-4b22-ac69-f1059400a459",
     "name": "Great American Steakhouse Creamy Dill Dipping Sauce -1 Point",
     "description": "A creamy and flavorful dill dipping sauce perfect for pairing with steaks or appetizers.",
     "ingredients": [
@@ -4631,10 +4631,10 @@
     "type": "Appetizer",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "24869267-6821-4b22-ac69-f1059400a459.jpg"
   },
   {
-    "id": "",
+    "id": "de986a8f-65a0-4f1e-8c6f-6dc3c8c6790f",
     "name": "Great American Steakhouse Dry Onion Mix - 2 Points",
     "description": "This recipe for Great American Steakhouse Dry Onion Mix is a flavorful and crispy appetizer featuring a blooming onion coated with a mix of savory seasonings and baked to golden perfection. Perfect for sharing and enjoying with friends and family as a tasty starter before the main course.",
     "ingredients": [
@@ -4677,10 +4677,10 @@
     "type": "Appetizer",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "de986a8f-65a0-4f1e-8c6f-6dc3c8c6790f.jpg"
   },
   {
-    "id": "",
+    "id": "a5989bab-d6c0-479c-9bfa-c2283fa49e08",
     "name": "Great American Steakhouse Ranch Dipping Sauce - 1 Point",
     "description": "This Great American Steakhouse Ranch Dipping Sauce is a creamy and flavorful dip perfect for pairing with veggies, chips, or as a dressing for salads. It's a light and tasty snack option that is easy to make and great for gatherings or a quick bite.",
     "ingredients": [
@@ -4701,10 +4701,10 @@
     "type": "Snack",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "a5989bab-d6c0-479c-9bfa-c2283fa49e08.jpg"
   },
   {
-    "id": "",
+    "id": "5f0614a5-830d-41da-b0d6-e3d5462cb59f",
     "name": "Great American Steakhouse Russian Dipping Sauce - 1 Point",
     "description": "A tangy and flavorful dipping sauce perfect for pairing with steak or other grilled meats. This Russian Dipping Sauce is a classic American steakhouse condiment that adds a zesty kick to your meal.",
     "ingredients": [
@@ -4728,10 +4728,10 @@
     "type": "Condiment",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "5f0614a5-830d-41da-b0d6-e3d5462cb59f.jpg"
   },
   {
-    "id": "",
+    "id": "78581aba-f37a-4c50-a692-179100b2046d",
     "name": "Great American Steakhouse Sweet And Sour Dipping Sauce-3 Poi",
     "description": "Great American Steakhouse Sweet And Sour Dipping Sauce is a tangy and flavorful sauce that pairs perfectly with grilled meats, especially steak. It has a balance of sweet and sour flavors, making it a versatile condiment for various dishes. Serve this sauce warm alongside your favorite grilled meats for a delicious flavor enhancement.",
     "ingredients": [
@@ -4759,10 +4759,10 @@
     "type": "Sauce",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "78581aba-f37a-4c50-a692-179100b2046d.jpg"
   },
   {
-    "id": "",
+    "id": "e184c1a8-c45d-427c-8e67-fe7bd6d0d7a7",
     "name": "Great American Steakhouse Yogurt Herb Dipping Sauce -1 Point",
     "description": "A light and tangy yogurt herb dipping sauce perfect for pairing with a variety of snacks or appetizers. This sauce is refreshing and flavorful, making it a great addition to any gathering or as a quick snack option.",
     "ingredients": [
@@ -4787,10 +4787,10 @@
     "type": "Snack",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": ""
+    "imageUrl": "e184c1a8-c45d-427c-8e67-fe7bd6d0d7a7.jpg"
   },
   {
-    "id": "",
+    "id": "dcd8387a-d6ef-4154-b2dd-d97d774b73a1",
     "name": "All - American Club Wraps",
     "description": "All-American Club Wraps are delicious and satisfying wraps filled with crispy bacon, garden vegetables, turkey breast, lettuce, and tomatoes. Perfect for a quick and flavorful lunch option.",
     "ingredients": [
@@ -4809,6 +4809,6 @@
     "type": "Lunch",
     "cuisine": "American",
     "servings": "4 Wraps",
-    "imageUrl": ""
+    "imageUrl": "dcd8387a-d6ef-4154-b2dd-d97d774b73a1.jpg"
   }
 ]

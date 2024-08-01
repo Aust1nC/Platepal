@@ -85,7 +85,7 @@ public class RecipeCreationService {
         }
     }
 
-    public void saveRecipesToJsonFile(List<Recipe> newRecipes) {
+    private void saveRecipesToJsonFile(List<Recipe> newRecipes) {
         try {
             Gson gson = new Gson();
             List<Recipe> existingRecipes = gson.fromJson(
@@ -201,74 +201,6 @@ public class RecipeCreationService {
     }
 
 
-    public void createRecipes(int numberOfRecipes) {
-        List<String> ingredientsPool = List.of(
-                "Chicken", "Beef", "Pork",
-                "Fish", "Pasta", "Rice",
-                "Vegetables", "Nuts", "Fruits",
-                "Herbs and Spices", "Eggs", "Others"
-        );
-        List<String> cuisines = List.of(
-                "Italian", "Greek", "French", "Indian",
-                "Mexican", "Thai", "Spanish", "Filipino",
-                "Chinese", "Japanese", "Vietnamese", "Korean",
-                "Turkish", "Malaysian", "Brazilian", "American"
-        );
-
-        while (this.generatedRecipes.size() < numberOfRecipes) {
-            String cuisine = getRandomElement(cuisines);
-            Set<String> ingredients = new HashSet<>();
-
-            // Generate a random number from 1 to 5;
-            int ingredientNumber = (int) ((Math.random() * 4) + 1);
-
-            while (ingredients.size() < ingredientNumber) {
-                ingredients.add(getRandomElement(ingredientsPool));
-            }
-
-            String prompt = "Create a recipe for a " + cuisine + ". The ingredients include: " +
-                    String.join(", ", ingredients) + ". Include the recipe name, description, " +
-                    "exact spices and herbs if used, " + "and detailed instructions.";
-
-            ChatResponse response = chatClient.call(new Prompt(
-                    prompt,
-                    OpenAiChatOptions.builder().withFunction("saveRecipe").build()
-            ));
-
-            System.out.println(response.getResult().getOutput().getContent());
-        }
-        saveRecipesToJson(this.generatedRecipes);
-    }
-
-    private void saveRecipesToJson(List<Recipe> generatedRecipes) {
-    try {
-        Gson gson = new Gson();
-        List<Recipe> existingRecipes = gson.fromJson(
-                new FileReader(RECIPES_FILE_PATH),
-                new TypeToken<ArrayList<Recipe>>() {}.getType()
-        );
-        if (existingRecipes == null) {
-            existingRecipes = new ArrayList<>();
-        }
-
-        generatedRecipes.addAll(existingRecipes);
-
-        List<Recipe> recipesWithImages = new ArrayList<>();
-        for (Recipe recipe : generatedRecipes) {
-            if (recipe.imageUrl() == null || recipe.imageUrl().isEmpty()) {
-                recipe = generateRecipeImage(recipe);
-            }
-            recipesWithImages.add(recipe);
-        }
-        String jsonString = gson.toJson(recipesWithImages);
-        FileWriter writer = new FileWriter(RECIPES_FILE_PATH);
-        writer.write(jsonString);
-        writer.close();
-    } catch (IOException e) {
-        throw new RuntimeException(e);
-        }
-    }
-
     private Recipe generateRecipeImage(Recipe recipe) {
         String uuid = StringUtils.isBlank(recipe.id()) ? UUID.randomUUID().toString() : recipe.id();
         recipe = new Recipe(
@@ -332,6 +264,77 @@ public class RecipeCreationService {
         return recipe;
 }
 
+
+
+
+//    public void createRecipes(int numberOfRecipes) {
+//        List<String> ingredientsPool = List.of(
+//                "Chicken", "Beef", "Pork",
+//                "Fish", "Pasta", "Rice",
+//                "Vegetables", "Nuts", "Fruits",
+//                "Herbs and Spices", "Eggs", "Others"
+//        );
+//        List<String> cuisines = List.of(
+//                "Italian", "Greek", "French", "Indian",
+//                "Mexican", "Thai", "Spanish", "Filipino",
+//                "Chinese", "Japanese", "Vietnamese", "Korean",
+//                "Turkish", "Malaysian", "Brazilian", "American"
+//        );
+//
+//        while (this.generatedRecipes.size() < numberOfRecipes) {
+//            String cuisine = getRandomElement(cuisines);
+//            Set<String> ingredients = new HashSet<>();
+//
+//            // Generate a random number from 1 to 5;
+//            int ingredientNumber = (int) ((Math.random() * 4) + 1);
+//
+//            while (ingredients.size() < ingredientNumber) {
+//                ingredients.add(getRandomElement(ingredientsPool));
+//            }
+//
+//            String prompt = "Create a recipe for a " + cuisine + ". The ingredients include: " +
+//                    String.join(", ", ingredients) + ". Include the recipe name, description, " +
+//                    "exact spices and herbs if used, " + "and detailed instructions.";
+//
+//            ChatResponse response = chatClient.call(new Prompt(
+//                    prompt,
+//                    OpenAiChatOptions.builder().withFunction("saveRecipe").build()
+//            ));
+//
+//            System.out.println(response.getResult().getOutput().getContent());
+//        }
+//        saveRecipesToJson(this.generatedRecipes);
+//    }
+//
+//    private void saveRecipesToJson(List<Recipe> generatedRecipes) {
+//        try {
+//            Gson gson = new Gson();
+//            List<Recipe> existingRecipes = gson.fromJson(
+//                    new FileReader(RECIPES_FILE_PATH),
+//                    new TypeToken<ArrayList<Recipe>>() {}.getType()
+//            );
+//            if (existingRecipes == null) {
+//                existingRecipes = new ArrayList<>();
+//            }
+//
+//            generatedRecipes.addAll(existingRecipes);
+//
+//            List<Recipe> recipesWithImages = new ArrayList<>();
+//            for (Recipe recipe : generatedRecipes) {
+//                if (recipe.imageUrl() == null || recipe.imageUrl().isEmpty()) {
+//                    recipe = generateRecipeImage(recipe);
+//                }
+//                recipesWithImages.add(recipe);
+//            }
+//            String jsonString = gson.toJson(recipesWithImages);
+//            FileWriter writer = new FileWriter(RECIPES_FILE_PATH);
+//            writer.write(jsonString);
+//            writer.close();
+//        } catch (IOException e) {
+//            throw new RuntimeException(e);
+//        }
+//    }
+
     @Bean
     @Description("Save the generated recipe information") // function description
     public Function<Recipe, Boolean> saveRecipe() {
@@ -341,4 +344,23 @@ public class RecipeCreationService {
             return true;
         };
     }
+
+    public void saveRecipesToDB() {
+        Gson gson = new Gson();
+        try {
+            List<Recipe> existingRecipes = gson.fromJson(
+                    new FileReader(RECIPES_FILE_PATH),
+                    new TypeToken<List<Recipe>>() {}.getType());
+
+            recipeRepository.deleteAll();
+            recipeRepository.saveAll(existingRecipes);
+
+            System.out.println("Recipes saved to DB");
+
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+    }
 }
+
+

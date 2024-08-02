@@ -21,9 +21,5 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	}
 
 	public void run(String... args) {
-//		recipeCreationService.saveRecipesToDB();
-
-//		System.out.println(recipeRepository.findAll().getFirst());
 	}
-
 }

@@ -1,5 +1,6 @@
 package com.austin.platepal_ai_backend.conversations;
 
+import com.austin.platepal_ai_backend.recipes.Recipe;
 import com.austin.platepal_ai_backend.recipes.RecipeRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
@@ -14,13 +15,15 @@ public class ConversationController {
 
     private final ConversationRepository conversationRepository;
     private final RecipeRepository recipeRepository;
+    private final ConversationService conversationService;
 
-    public ConversationController(ConversationRepository conversationRepository, RecipeRepository recipeRepository
-    ) {
+    public ConversationController(ConversationRepository conversationRepository, RecipeRepository recipeRepository, ConversationService conversationService) {
         this.conversationRepository = conversationRepository;
         this.recipeRepository = recipeRepository;
+        this.conversationService = conversationService;
     }
 
+    @CrossOrigin(origins = "*")
     @GetMapping("/conversations/{conversationId}")
     public Conversation getConversation(@PathVariable("conversationId") String conversationId) {
         return conversationRepository.findById(conversationId)
@@ -31,6 +34,7 @@ public class ConversationController {
     }
 
 
+    @CrossOrigin(origins = "*")
     @PostMapping("/conversations")
     public Conversation createNewConversation(@RequestBody CreateConversationRequest request) {
 
@@ -49,7 +53,8 @@ public class ConversationController {
         return conversation;
     }
 
-    @PutMapping("/conversations/{conversationId}")
+    @CrossOrigin(origins = "*")
+    @PostMapping("/conversations/{conversationId}")
     public Conversation addMessageToConversation(
             @PathVariable("conversationId") String conversationId,
             @RequestBody ChatMessage chatMessage
@@ -59,7 +64,7 @@ public class ConversationController {
                         "Unable to find conversation with ID " + conversationId
                 ));
 
-        recipeRepository.findById(chatMessage.authorId())
+        Recipe recipe = recipeRepository.findById(chatMessage.authorId())
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND,
                         "Unable to find a recipe with ID " + chatMessage.authorId()
                 ));
@@ -74,6 +79,7 @@ public class ConversationController {
         );
 
         conversation.messages().add(messageWithTime);
+        conversationService.generateRecipeResonse(conversation, recipe);
         conversationRepository.save(conversation);
         return conversation;
     }

@@ -212,7 +212,7 @@ public class RecipeCreationService {
                 recipe.type(),
                 recipe.cuisine(),
                 recipe.servings(),
-                uuid + ".jpg"
+                uuid + ".jpeg"
         );
 
         System.out.println("Recipe with image: " + recipe);

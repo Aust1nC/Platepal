@@ -19,7 +19,7 @@
     "type": "Side Dish",
     "cuisine": "chinese",
     "servings": "1 servings",
-    "imageUrl": "ccbe9963-08bd-4efb-b111-c2d480bea96c.jpg"
+    "imageUrl": "ccbe9963-08bd-4efb-b111-c2d480bea96c.jpeg"
   },
   {
     "id": "7e025b8a-dfeb-4bec-ba76-58659c3cba2d",
@@ -49,7 +49,7 @@
     "type": "Lunch",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": "7e025b8a-dfeb-4bec-ba76-58659c3cba2d.jpg"
+    "imageUrl": "7e025b8a-dfeb-4bec-ba76-58659c3cba2d.jpeg"
   },
   {
     "id": "de7db836-f5d0-4e01-9f7d-58e686156b28",
@@ -98,7 +98,7 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "4 Servings",
-    "imageUrl": "de7db836-f5d0-4e01-9f7d-58e686156b28.jpg"
+    "imageUrl": "de7db836-f5d0-4e01-9f7d-58e686156b28.jpeg"
   },
   {
     "id": "4f98e5ce-7715-4315-8727-97a492318b1b",
@@ -128,7 +128,7 @@
     "type": "Main",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": "4f98e5ce-7715-4315-8727-97a492318b1b.jpg"
+    "imageUrl": "4f98e5ce-7715-4315-8727-97a492318b1b.jpeg"
   },
   {
     "id": "c4373d3c-0566-4ee5-bc53-908d397a9eac",
@@ -152,7 +152,7 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "13 Servings",
-    "imageUrl": "c4373d3c-0566-4ee5-bc53-908d397a9eac.jpg"
+    "imageUrl": "c4373d3c-0566-4ee5-bc53-908d397a9eac.jpeg"
   },
   {
     "id": "0deb5ea9-9769-446d-a208-ef80eec1550b",
@@ -185,7 +185,7 @@
     "type": "Snack",
     "cuisine": "chinese",
     "servings": "36 Pieces",
-    "imageUrl": "0deb5ea9-9769-446d-a208-ef80eec1550b.jpg"
+    "imageUrl": "0deb5ea9-9769-446d-a208-ef80eec1550b.jpeg"
   },
   {
     "id": "216e618b-db6b-461e-82f6-e3dc4c8ed814",
@@ -217,7 +217,7 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "6 Servings",
-    "imageUrl": "216e618b-db6b-461e-82f6-e3dc4c8ed814.jpg"
+    "imageUrl": "216e618b-db6b-461e-82f6-e3dc4c8ed814.jpeg"
   },
   {
     "id": "b13c9c58-0f2f-4ff0-bc3d-9d4e4100bf8c",
@@ -249,7 +249,7 @@
     "type": "Appetizer",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": "b13c9c58-0f2f-4ff0-bc3d-9d4e4100bf8c.jpg"
+    "imageUrl": "b13c9c58-0f2f-4ff0-bc3d-9d4e4100bf8c.jpeg"
   },
   {
     "id": "f6255d87-79cf-4ef5-bedf-5fd6cf3aaf70",
@@ -274,7 +274,7 @@
     "type": "Appetizer",
     "cuisine": "chinese",
     "servings": "24 Egg-rolls",
-    "imageUrl": "f6255d87-79cf-4ef5-bedf-5fd6cf3aaf70.jpg"
+    "imageUrl": "f6255d87-79cf-4ef5-bedf-5fd6cf3aaf70.jpeg"
   },
   {
     "id": "a492d921-1279-42bb-8a2a-52d4e1c4013e",
@@ -299,7 +299,7 @@
     "type": "Dinner",
     "cuisine": "chinese",
     "servings": "1 Servings",
-    "imageUrl": "a492d921-1279-42bb-8a2a-52d4e1c4013e.jpg"
+    "imageUrl": "a492d921-1279-42bb-8a2a-52d4e1c4013e.jpeg"
   },
   {
     "id": "847df47a-a675-40db-b51f-49d83248f719",
@@ -340,7 +340,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "2 Servings",
-    "imageUrl": "847df47a-a675-40db-b51f-49d83248f719.jpg"
+    "imageUrl": "847df47a-a675-40db-b51f-49d83248f719.jpeg"
   },
   {
     "id": "b3e7c693-270b-4ccb-b0d0-846d4e7c3841",
@@ -373,7 +373,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "6 servings",
-    "imageUrl": "b3e7c693-270b-4ccb-b0d0-846d4e7c3841.jpg"
+    "imageUrl": "b3e7c693-270b-4ccb-b0d0-846d4e7c3841.jpeg"
   },
   {
     "id": "583b0cad-99a9-4388-bdd0-45b532513e18",
@@ -416,7 +416,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "4 servings",
-    "imageUrl": "583b0cad-99a9-4388-bdd0-45b532513e18.jpg"
+    "imageUrl": "583b0cad-99a9-4388-bdd0-45b532513e18.jpeg"
   },
   {
     "id": "e7f945d4-c16c-4858-b6b8-316b94307337",
@@ -448,7 +448,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": "e7f945d4-c16c-4858-b6b8-316b94307337.jpg"
+    "imageUrl": "e7f945d4-c16c-4858-b6b8-316b94307337.jpeg"
   },
   {
     "id": "7e241285-15f4-4730-ac7d-459334ed5f39",
@@ -488,7 +488,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "8 Servings",
-    "imageUrl": "7e241285-15f4-4730-ac7d-459334ed5f39.jpg"
+    "imageUrl": "7e241285-15f4-4730-ac7d-459334ed5f39.jpeg"
   },
   {
     "id": "14f8fed4-9fdc-4efd-b81c-81368fb2dc40",
@@ -525,7 +525,7 @@
     "type": "Lunch",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": "14f8fed4-9fdc-4efd-b81c-81368fb2dc40.jpg"
+    "imageUrl": "14f8fed4-9fdc-4efd-b81c-81368fb2dc40.jpeg"
   },
   {
     "id": "7068338f-4795-42ca-9a8e-7d835fc4f64a",
@@ -550,7 +550,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": "7068338f-4795-42ca-9a8e-7d835fc4f64a.jpg"
+    "imageUrl": "7068338f-4795-42ca-9a8e-7d835fc4f64a.jpeg"
   },
   {
     "id": "857ce942-fb13-4a37-a41b-51cd3cf0871d",
@@ -580,7 +580,7 @@
     "type": "Condiment",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": "857ce942-fb13-4a37-a41b-51cd3cf0871d.jpg"
+    "imageUrl": "857ce942-fb13-4a37-a41b-51cd3cf0871d.jpeg"
   },
   {
     "id": "cebe6de8-5af9-4f0f-901b-4c7f2799b8e8",
@@ -609,7 +609,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "1 Servings",
-    "imageUrl": "cebe6de8-5af9-4f0f-901b-4c7f2799b8e8.jpg"
+    "imageUrl": "cebe6de8-5af9-4f0f-901b-4c7f2799b8e8.jpeg"
   },
   {
     "id": "4c76e986-1f99-417b-814a-a134b63a4713",
@@ -630,7 +630,7 @@
     "type": "Dinner",
     "cuisine": "Italian",
     "servings": "8 Servings",
-    "imageUrl": "4c76e986-1f99-417b-814a-a134b63a4713.jpg"
+    "imageUrl": "4c76e986-1f99-417b-814a-a134b63a4713.jpeg"
   },
   {
     "id": "afbc263c-413e-4199-98ff-58625d9b6f44",
@@ -663,7 +663,7 @@
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "4 servings",
-    "imageUrl": "afbc263c-413e-4199-98ff-58625d9b6f44.jpg"
+    "imageUrl": "afbc263c-413e-4199-98ff-58625d9b6f44.jpeg"
   },
   {
     "id": "e3989189-aaa7-4bfb-8c7f-aea93fc54f2d",
@@ -696,7 +696,7 @@
     "type": "Dinner",
     "cuisine": "Greek",
     "servings": "6 servings",
-    "imageUrl": "e3989189-aaa7-4bfb-8c7f-aea93fc54f2d.jpg"
+    "imageUrl": "e3989189-aaa7-4bfb-8c7f-aea93fc54f2d.jpeg"
   },
   {
     "id": "b950c020-5263-4164-9d16-56e2fd3d7254",
@@ -748,7 +748,7 @@
     "type": "Dessert",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": "b950c020-5263-4164-9d16-56e2fd3d7254.jpg"
+    "imageUrl": "b950c020-5263-4164-9d16-56e2fd3d7254.jpeg"
   },
   {
     "id": "69ac2628-511c-4a33-8612-096a5f3da0f7",
@@ -772,7 +772,7 @@
     "type": "Dressing",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": "69ac2628-511c-4a33-8612-096a5f3da0f7.jpg"
+    "imageUrl": "69ac2628-511c-4a33-8612-096a5f3da0f7.jpeg"
   },
   {
     "id": "dfdaf751-5bea-4abb-8110-6f58ba875bdf",
@@ -810,7 +810,7 @@
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "6 servings",
-    "imageUrl": "dfdaf751-5bea-4abb-8110-6f58ba875bdf.jpg"
+    "imageUrl": "dfdaf751-5bea-4abb-8110-6f58ba875bdf.jpeg"
   },
   {
     "id": "3aaea157-e7c5-4f8f-8293-7a19ec806323",
@@ -836,7 +836,7 @@
     "type": "Salad",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": "3aaea157-e7c5-4f8f-8293-7a19ec806323.jpg"
+    "imageUrl": "3aaea157-e7c5-4f8f-8293-7a19ec806323.jpeg"
   },
   {
     "id": "ac501b12-1673-40ee-a0ae-d6d1ca092874",
@@ -877,7 +877,7 @@
     "type": "Dinner",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": "ac501b12-1673-40ee-a0ae-d6d1ca092874.jpg"
+    "imageUrl": "ac501b12-1673-40ee-a0ae-d6d1ca092874.jpeg"
   },
   {
     "id": "b42aec69-6994-4426-9f42-c804464a0466",
@@ -910,7 +910,7 @@
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "1 servings",
-    "imageUrl": "b42aec69-6994-4426-9f42-c804464a0466.jpg"
+    "imageUrl": "b42aec69-6994-4426-9f42-c804464a0466.jpeg"
   },
   {
     "id": "0377e3f8-bced-4ffa-81b3-c1d110e9f994",
@@ -937,7 +937,7 @@
     "type": "Lunch",
     "cuisine": "Greek",
     "servings": "4 Servings",
-    "imageUrl": "0377e3f8-bced-4ffa-81b3-c1d110e9f994.jpg"
+    "imageUrl": "0377e3f8-bced-4ffa-81b3-c1d110e9f994.jpeg"
   },
   {
     "id": "b7bc415e-ac51-45b8-9e6f-c09920a05094",
@@ -978,7 +978,7 @@
     "type": "Dinner",
     "cuisine": "Greek",
     "servings": "8 servings",
-    "imageUrl": "b7bc415e-ac51-45b8-9e6f-c09920a05094.jpg"
+    "imageUrl": "b7bc415e-ac51-45b8-9e6f-c09920a05094.jpeg"
   },
   {
     "id": "df854434-6a68-4295-bb9a-653a7099a210",
@@ -1003,7 +1003,7 @@
     "type": "Salad Dressing",
     "cuisine": "French",
     "servings": "1 Cup",
-    "imageUrl": "df854434-6a68-4295-bb9a-653a7099a210.jpg"
+    "imageUrl": "df854434-6a68-4295-bb9a-653a7099a210.jpeg"
   },
   {
     "id": "f21f334c-5b42-4632-a324-baf93d9f3c33",
@@ -1043,7 +1043,7 @@
     "type": "Dinner",
     "cuisine": "French",
     "servings": "6 Servings",
-    "imageUrl": "f21f334c-5b42-4632-a324-baf93d9f3c33.jpg"
+    "imageUrl": "f21f334c-5b42-4632-a324-baf93d9f3c33.jpeg"
   },
   {
     "id": "808ff5a8-9c88-4083-9fde-76cb5a6a36a5",
@@ -1075,7 +1075,7 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "4 Servings",
-    "imageUrl": "808ff5a8-9c88-4083-9fde-76cb5a6a36a5.jpg"
+    "imageUrl": "808ff5a8-9c88-4083-9fde-76cb5a6a36a5.jpeg"
   },
   {
     "id": "f47dd109-a726-4dd9-bcac-4552515f1bf7",
@@ -1118,7 +1118,7 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "100 Servings",
-    "imageUrl": "f47dd109-a726-4dd9-bcac-4552515f1bf7.jpg"
+    "imageUrl": "f47dd109-a726-4dd9-bcac-4552515f1bf7.jpeg"
   },
   {
     "id": "f96d3e78-62a9-4a67-8a57-6ead963d6608",
@@ -1143,7 +1143,7 @@
     "type": "Dressing",
     "cuisine": "French",
     "servings": "8 Servings",
-    "imageUrl": "f96d3e78-62a9-4a67-8a57-6ead963d6608.jpg"
+    "imageUrl": "f96d3e78-62a9-4a67-8a57-6ead963d6608.jpeg"
   },
   {
     "id": "c3838bdf-6cfa-45d2-878c-20db9473ce76",
@@ -1184,7 +1184,7 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "4 servings",
-    "imageUrl": "c3838bdf-6cfa-45d2-878c-20db9473ce76.jpg"
+    "imageUrl": "c3838bdf-6cfa-45d2-878c-20db9473ce76.jpeg"
   },
   {
     "id": "e4104688-40cb-42fc-aa42-a220f3a84585",
@@ -1213,7 +1213,7 @@
     "type": "Breakfast",
     "cuisine": "French",
     "servings": "4 Servings",
-    "imageUrl": "e4104688-40cb-42fc-aa42-a220f3a84585.jpg"
+    "imageUrl": "e4104688-40cb-42fc-aa42-a220f3a84585.jpeg"
   },
   {
     "id": "6f2f2db2-9d46-46d2-b836-a9a0ecb74526",
@@ -1253,7 +1253,7 @@
     "type": "Appetizer, Lunch, Snack",
     "cuisine": "French",
     "servings": "1 servings",
-    "imageUrl": "6f2f2db2-9d46-46d2-b836-a9a0ecb74526.jpg"
+    "imageUrl": "6f2f2db2-9d46-46d2-b836-a9a0ecb74526.jpeg"
   },
   {
     "id": "1cff7354-3925-4675-9163-3031d3567f56",
@@ -1276,7 +1276,7 @@
     "type": "Snack",
     "cuisine": "French",
     "servings": "8 Servings",
-    "imageUrl": "1cff7354-3925-4675-9163-3031d3567f56.jpg"
+    "imageUrl": "1cff7354-3925-4675-9163-3031d3567f56.jpeg"
   },
   {
     "id": "bc98b1c1-6325-4e1f-a8b9-b83f0ed077e8",
@@ -1292,7 +1292,7 @@
     "type": "Side Dish",
     "cuisine": "Indian",
     "servings": "1 Servings",
-    "imageUrl": "bc98b1c1-6325-4e1f-a8b9-b83f0ed077e8.jpg"
+    "imageUrl": "bc98b1c1-6325-4e1f-a8b9-b83f0ed077e8.jpeg"
   },
   {
     "id": "14f7d58a-9ba8-4490-add0-06ca6970d906",
@@ -1307,7 +1307,7 @@
     "type": "Main Course",
     "cuisine": "Indian",
     "servings": "1 Servings",
-    "imageUrl": "14f7d58a-9ba8-4490-add0-06ca6970d906.jpg"
+    "imageUrl": "14f7d58a-9ba8-4490-add0-06ca6970d906.jpeg"
   },
   {
     "id": "6a0854d2-9e03-400d-8d5d-f20842ed83bf",
@@ -1348,7 +1348,7 @@
     "type": "Dinner",
     "cuisine": "Indian",
     "servings": "1 servings",
-    "imageUrl": "6a0854d2-9e03-400d-8d5d-f20842ed83bf.jpg"
+    "imageUrl": "6a0854d2-9e03-400d-8d5d-f20842ed83bf.jpeg"
   },
   {
     "id": "44ac91ea-7391-4196-8c23-1edcac118cc2",
@@ -1392,7 +1392,7 @@
     "type": "Lunch",
     "cuisine": "Indian",
     "servings": "16 Chapatis",
-    "imageUrl": "44ac91ea-7391-4196-8c23-1edcac118cc2.jpg"
+    "imageUrl": "44ac91ea-7391-4196-8c23-1edcac118cc2.jpeg"
   },
   {
     "id": "65c36926-159f-44aa-a553-07f46b315526",
@@ -1418,7 +1418,7 @@
     "type": "Snack",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": "65c36926-159f-44aa-a553-07f46b315526.jpg"
+    "imageUrl": "65c36926-159f-44aa-a553-07f46b315526.jpeg"
   },
   {
     "id": "d549ce61-979c-47a2-ba53-c372a9d347e1",
@@ -1447,7 +1447,7 @@
     "type": "Dinner",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": "d549ce61-979c-47a2-ba53-c372a9d347e1.jpg"
+    "imageUrl": "d549ce61-979c-47a2-ba53-c372a9d347e1.jpeg"
   },
   {
     "id": "1f656bc8-4497-4df6-a2a2-a438fdfb9904",
@@ -1489,7 +1489,7 @@
     "type": "Lunch or Dinner",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": "1f656bc8-4497-4df6-a2a2-a438fdfb9904.jpg"
+    "imageUrl": "1f656bc8-4497-4df6-a2a2-a438fdfb9904.jpeg"
   },
   {
     "id": "0b152212-e27d-4e7f-8fa3-3cb8df16256e",
@@ -1516,7 +1516,7 @@
     "type": "Condiment",
     "cuisine": "Indian",
     "servings": "3 Cups",
-    "imageUrl": "0b152212-e27d-4e7f-8fa3-3cb8df16256e.jpg"
+    "imageUrl": "0b152212-e27d-4e7f-8fa3-3cb8df16256e.jpeg"
   },
   {
     "id": "de312b2a-8498-4700-8354-80d3012a218e",
@@ -1569,7 +1569,7 @@
     "type": "Dessert",
     "cuisine": "Indian",
     "servings": "1 Servings",
-    "imageUrl": "de312b2a-8498-4700-8354-80d3012a218e.jpg"
+    "imageUrl": "de312b2a-8498-4700-8354-80d3012a218e.jpeg"
   },
   {
     "id": "5a3ff23b-d7aa-4556-8584-86ecd007b666",
@@ -1610,7 +1610,7 @@
     "type": "Lunch",
     "cuisine": "Indian",
     "servings": "4 Servings",
-    "imageUrl": "5a3ff23b-d7aa-4556-8584-86ecd007b666.jpg"
+    "imageUrl": "5a3ff23b-d7aa-4556-8584-86ecd007b666.jpeg"
   },
   {
     "id": "61aec5d7-e7be-483a-8f75-9b41b35256f2",
@@ -1661,7 +1661,7 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "6 Servings",
-    "imageUrl": "61aec5d7-e7be-483a-8f75-9b41b35256f2.jpg"
+    "imageUrl": "61aec5d7-e7be-483a-8f75-9b41b35256f2.jpeg"
   },
   {
     "id": "013ea3c1-6f7f-4087-be46-5ed258aef1de",
@@ -1690,7 +1690,7 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "6 servings",
-    "imageUrl": "013ea3c1-6f7f-4087-be46-5ed258aef1de.jpg"
+    "imageUrl": "013ea3c1-6f7f-4087-be46-5ed258aef1de.jpeg"
   },
   {
     "id": "28910b89-66fc-4b06-b9f1-db0bd0004fac",
@@ -1722,7 +1722,7 @@
     "type": "Dessert",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": "28910b89-66fc-4b06-b9f1-db0bd0004fac.jpg"
+    "imageUrl": "28910b89-66fc-4b06-b9f1-db0bd0004fac.jpeg"
   },
   {
     "id": "a1d8be4c-47b7-4b5b-8724-7fb606bb5fa4",
@@ -1765,7 +1765,7 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "8 Servings",
-    "imageUrl": "a1d8be4c-47b7-4b5b-8724-7fb606bb5fa4.jpg"
+    "imageUrl": "a1d8be4c-47b7-4b5b-8724-7fb606bb5fa4.jpeg"
   },
   {
     "id": "0d50b0a6-9452-4e82-b2c9-e68865539720",
@@ -1817,7 +1817,7 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": "0d50b0a6-9452-4e82-b2c9-e68865539720.jpg"
+    "imageUrl": "0d50b0a6-9452-4e82-b2c9-e68865539720.jpeg"
   },
   {
     "id": "7095ab0e-7890-442e-943a-ca0fade3caa1",
@@ -1846,7 +1846,7 @@
     "type": "Lunch",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": "7095ab0e-7890-442e-943a-ca0fade3caa1.jpg"
+    "imageUrl": "7095ab0e-7890-442e-943a-ca0fade3caa1.jpeg"
   },
   {
     "id": "e9c5c7b8-f111-47d1-941d-027defdab41f",
@@ -1886,7 +1886,7 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "6 servings",
-    "imageUrl": "e9c5c7b8-f111-47d1-941d-027defdab41f.jpg"
+    "imageUrl": "e9c5c7b8-f111-47d1-941d-027defdab41f.jpeg"
   },
   {
     "id": "c7d3e9a7-ea9a-4429-b49f-832fdf424b83",
@@ -1913,7 +1913,7 @@
     "type": "Lunch",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": "c7d3e9a7-ea9a-4429-b49f-832fdf424b83.jpg"
+    "imageUrl": "c7d3e9a7-ea9a-4429-b49f-832fdf424b83.jpeg"
   },
   {
     "id": "8e73b33f-0557-4873-bdec-10dcd4e0f1cc",
@@ -1942,7 +1942,7 @@
     "type": "Dinner",
     "cuisine": "Mexican",
     "servings": "4 servings",
-    "imageUrl": "8e73b33f-0557-4873-bdec-10dcd4e0f1cc.jpg"
+    "imageUrl": "8e73b33f-0557-4873-bdec-10dcd4e0f1cc.jpeg"
   },
   {
     "id": "e1d992c6-0e36-4c5c-9bda-cd454da54bb1",
@@ -1966,7 +1966,7 @@
     "type": "Snack",
     "cuisine": "Mexican",
     "servings": "1 servings",
-    "imageUrl": "e1d992c6-0e36-4c5c-9bda-cd454da54bb1.jpg"
+    "imageUrl": "e1d992c6-0e36-4c5c-9bda-cd454da54bb1.jpeg"
   },
   {
     "id": "1195e815-6ed1-411b-b992-831310cc82bc",
@@ -1999,7 +1999,7 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "1 servings",
-    "imageUrl": "1195e815-6ed1-411b-b992-831310cc82bc.jpg"
+    "imageUrl": "1195e815-6ed1-411b-b992-831310cc82bc.jpeg"
   },
   {
     "id": "71c114e2-2f10-408a-a53a-5df8ee620680",
@@ -2046,7 +2046,7 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "6 Servings",
-    "imageUrl": "71c114e2-2f10-408a-a53a-5df8ee620680.jpg"
+    "imageUrl": "71c114e2-2f10-408a-a53a-5df8ee620680.jpeg"
   },
   {
     "id": "db476968-7cb8-44b6-a3fc-f4e7730d75d3",
@@ -2087,7 +2087,7 @@
     "type": "Lunch",
     "cuisine": "Thai",
     "servings": "1 servings",
-    "imageUrl": "db476968-7cb8-44b6-a3fc-f4e7730d75d3.jpg"
+    "imageUrl": "db476968-7cb8-44b6-a3fc-f4e7730d75d3.jpeg"
   },
   {
     "id": "ed023d83-112b-4fc7-9f6d-568c0c05471c",
@@ -2119,7 +2119,7 @@
     "type": "Beverage",
     "cuisine": "Thai",
     "servings": "6 Servings",
-    "imageUrl": "ed023d83-112b-4fc7-9f6d-568c0c05471c.jpg"
+    "imageUrl": "ed023d83-112b-4fc7-9f6d-568c0c05471c.jpeg"
   },
   {
     "id": "73b52543-0d02-47ca-9cad-2cf6edaefd57",
@@ -2151,7 +2151,7 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "6 servings",
-    "imageUrl": "73b52543-0d02-47ca-9cad-2cf6edaefd57.jpg"
+    "imageUrl": "73b52543-0d02-47ca-9cad-2cf6edaefd57.jpeg"
   },
   {
     "id": "25bd1a9d-dc69-424a-a6f1-04affd83bc8d",
@@ -2188,7 +2188,7 @@
     "type": "Dinner",
     "cuisine": "Thai",
     "servings": "1 Servings",
-    "imageUrl": "25bd1a9d-dc69-424a-a6f1-04affd83bc8d.jpg"
+    "imageUrl": "25bd1a9d-dc69-424a-a6f1-04affd83bc8d.jpeg"
   },
   {
     "id": "4f05cf44-01d7-4163-82a3-5f766b88acc3",
@@ -2232,7 +2232,7 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "4 Servings",
-    "imageUrl": "4f05cf44-01d7-4163-82a3-5f766b88acc3.jpg"
+    "imageUrl": "4f05cf44-01d7-4163-82a3-5f766b88acc3.jpeg"
   },
   {
     "id": "ab6f7afc-7ca8-40b3-a2f1-87c9d520fe08",
@@ -2258,7 +2258,7 @@
     "type": "Lunch or Dinner",
     "cuisine": "Spanish",
     "servings": "1 servings",
-    "imageUrl": "ab6f7afc-7ca8-40b3-a2f1-87c9d520fe08.jpg"
+    "imageUrl": "ab6f7afc-7ca8-40b3-a2f1-87c9d520fe08.jpeg"
   },
   {
     "id": "d00cc736-8333-400f-be50-77667bc17476",
@@ -2304,7 +2304,7 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "8 Servings",
-    "imageUrl": "d00cc736-8333-400f-be50-77667bc17476.jpg"
+    "imageUrl": "d00cc736-8333-400f-be50-77667bc17476.jpeg"
   },
   {
     "id": "c866caf9-66b4-4d1e-9393-77864e233e66",
@@ -2345,7 +2345,7 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "4 Servings",
-    "imageUrl": "c866caf9-66b4-4d1e-9393-77864e233e66.jpg"
+    "imageUrl": "c866caf9-66b4-4d1e-9393-77864e233e66.jpeg"
   },
   {
     "id": "7abb973d-27f4-4022-8b54-4651c3049032",
@@ -2386,7 +2386,7 @@
     "type": "Breakfast",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": "7abb973d-27f4-4022-8b54-4651c3049032.jpg"
+    "imageUrl": "7abb973d-27f4-4022-8b54-4651c3049032.jpeg"
   },
   {
     "id": "62693617-c33a-49ca-a225-9f8bd6013a54",
@@ -2412,7 +2412,7 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "6 Servings",
-    "imageUrl": "62693617-c33a-49ca-a225-9f8bd6013a54.jpg"
+    "imageUrl": "62693617-c33a-49ca-a225-9f8bd6013a54.jpeg"
   },
   {
     "id": "4de272b4-6179-4217-b835-4347113095d4",
@@ -2440,7 +2440,7 @@
     "type": "Appetizer",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": "4de272b4-6179-4217-b835-4347113095d4.jpg"
+    "imageUrl": "4de272b4-6179-4217-b835-4347113095d4.jpeg"
   },
   {
     "id": "388510cb-4fe1-4eee-bf09-26fd31335b76",
@@ -2467,7 +2467,7 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": "388510cb-4fe1-4eee-bf09-26fd31335b76.jpg"
+    "imageUrl": "388510cb-4fe1-4eee-bf09-26fd31335b76.jpeg"
   },
   {
     "id": "dc1c01de-ab78-42b9-b994-1f1f7d53bcbd",
@@ -2499,7 +2499,7 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "1 Servings",
-    "imageUrl": "dc1c01de-ab78-42b9-b994-1f1f7d53bcbd.jpg"
+    "imageUrl": "dc1c01de-ab78-42b9-b994-1f1f7d53bcbd.jpeg"
   },
   {
     "id": "ecc04556-2324-40f0-b8e3-98067927fb18",
@@ -2542,7 +2542,7 @@
     "type": "Dinner",
     "cuisine": "Spanish",
     "servings": "4 Servings",
-    "imageUrl": "ecc04556-2324-40f0-b8e3-98067927fb18.jpg"
+    "imageUrl": "ecc04556-2324-40f0-b8e3-98067927fb18.jpeg"
   },
   {
     "id": "d88bfcb6-e600-4e04-8b9f-059ad65316dd",
@@ -2577,7 +2577,7 @@
     "type": "Breakfast",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": "d88bfcb6-e600-4e04-8b9f-059ad65316dd.jpg"
+    "imageUrl": "d88bfcb6-e600-4e04-8b9f-059ad65316dd.jpeg"
   },
   {
     "id": "9af08526-c84c-431c-9ddf-40305c09404c",
@@ -2630,7 +2630,7 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": "9af08526-c84c-431c-9ddf-40305c09404c.jpg"
+    "imageUrl": "9af08526-c84c-431c-9ddf-40305c09404c.jpeg"
   },
   {
     "id": "416d6437-ca9a-4fa8-b4a1-d9d9370e9d7f",
@@ -2673,7 +2673,7 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": "416d6437-ca9a-4fa8-b4a1-d9d9370e9d7f.jpg"
+    "imageUrl": "416d6437-ca9a-4fa8-b4a1-d9d9370e9d7f.jpeg"
   },
   {
     "id": "174b8f51-93f6-4500-9566-29929f34eb2d",
@@ -2752,7 +2752,7 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "100 Servings",
-    "imageUrl": "174b8f51-93f6-4500-9566-29929f34eb2d.jpg"
+    "imageUrl": "174b8f51-93f6-4500-9566-29929f34eb2d.jpeg"
   },
   {
     "id": "81090cbe-a4c2-41b3-97da-95dbbe107694",
@@ -2780,7 +2780,7 @@
     "type": "Dinner",
     "cuisine": "Filipino",
     "servings": "1 servings",
-    "imageUrl": "81090cbe-a4c2-41b3-97da-95dbbe107694.jpg"
+    "imageUrl": "81090cbe-a4c2-41b3-97da-95dbbe107694.jpeg"
   },
   {
     "id": "3c108ae3-f7e3-4a55-a8ff-0288461cd944",
@@ -2826,7 +2826,7 @@
     "type": "Breakfast",
     "cuisine": "Filipino",
     "servings": "1 Servings",
-    "imageUrl": "3c108ae3-f7e3-4a55-a8ff-0288461cd944.jpg"
+    "imageUrl": "3c108ae3-f7e3-4a55-a8ff-0288461cd944.jpeg"
   },
   {
     "id": "d235f6fd-a6fd-4b48-8023-e1d29a90749d",
@@ -2850,7 +2850,7 @@
     "type": "Appetizer",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": "d235f6fd-a6fd-4b48-8023-e1d29a90749d.jpg"
+    "imageUrl": "d235f6fd-a6fd-4b48-8023-e1d29a90749d.jpeg"
   },
   {
     "id": "817d6024-51ae-4661-9eae-aae8b12d607a",
@@ -2887,7 +2887,7 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "4 Servings",
-    "imageUrl": "817d6024-51ae-4661-9eae-aae8b12d607a.jpg"
+    "imageUrl": "817d6024-51ae-4661-9eae-aae8b12d607a.jpeg"
   },
   {
     "id": "39d7053c-aeae-45bd-8d7a-8864ba8f2824",
@@ -2913,7 +2913,7 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "1 Servings",
-    "imageUrl": "39d7053c-aeae-45bd-8d7a-8864ba8f2824.jpg"
+    "imageUrl": "39d7053c-aeae-45bd-8d7a-8864ba8f2824.jpeg"
   },
   {
     "id": "45f4feea-af50-4bc9-b6f9-82ba6a7cbdd6",
@@ -2940,7 +2940,7 @@
     "type": "Salad",
     "cuisine": "Japanese",
     "servings": "8 Servings",
-    "imageUrl": "45f4feea-af50-4bc9-b6f9-82ba6a7cbdd6.jpg"
+    "imageUrl": "45f4feea-af50-4bc9-b6f9-82ba6a7cbdd6.jpeg"
   },
   {
     "id": "8c1a1a96-fc91-4b7b-b60c-ef462c3bde5a",
@@ -2966,7 +2966,7 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "6 Servings",
-    "imageUrl": "8c1a1a96-fc91-4b7b-b60c-ef462c3bde5a.jpg"
+    "imageUrl": "8c1a1a96-fc91-4b7b-b60c-ef462c3bde5a.jpeg"
   },
   {
     "id": "33df0ef3-a1d6-4611-bcd1-6cbd675b2091",
@@ -3009,7 +3009,7 @@
     "type": "Dinner",
     "cuisine": "Japanese",
     "servings": "1 servings",
-    "imageUrl": "33df0ef3-a1d6-4611-bcd1-6cbd675b2091.jpg"
+    "imageUrl": "33df0ef3-a1d6-4611-bcd1-6cbd675b2091.jpeg"
   },
   {
     "id": "a20dbc07-512c-48a5-944d-5646f5ec594a",
@@ -3034,7 +3034,7 @@
     "type": "Lunch",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": "a20dbc07-512c-48a5-944d-5646f5ec594a.jpg"
+    "imageUrl": "a20dbc07-512c-48a5-944d-5646f5ec594a.jpeg"
   },
   {
     "id": "ce11f731-dff8-4c9d-98db-657a04c2db67",
@@ -3064,7 +3064,7 @@
     "type": "Appetizer",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": "ce11f731-dff8-4c9d-98db-657a04c2db67.jpg"
+    "imageUrl": "ce11f731-dff8-4c9d-98db-657a04c2db67.jpeg"
   },
   {
     "id": "54cae0cc-89d9-4f0b-b9ea-3d7d39214183",
@@ -3100,7 +3100,7 @@
     "type": "Lunch",
     "cuisine": "Japanese",
     "servings": "4 servings",
-    "imageUrl": "54cae0cc-89d9-4f0b-b9ea-3d7d39214183.jpg"
+    "imageUrl": "54cae0cc-89d9-4f0b-b9ea-3d7d39214183.jpeg"
   },
   {
     "id": "86e65b88-2071-4c3c-9763-1160f280d1b0",
@@ -3132,7 +3132,7 @@
     "type": "Appetizer",
     "cuisine": "Japanese",
     "servings": "1 servings",
-    "imageUrl": "86e65b88-2071-4c3c-9763-1160f280d1b0.jpg"
+    "imageUrl": "86e65b88-2071-4c3c-9763-1160f280d1b0.jpeg"
   },
   {
     "id": "01517712-34ff-4520-aeb5-ef78b66cbc5b",
@@ -3172,7 +3172,7 @@
     "type": "Appetizer",
     "cuisine": "Vietnamese",
     "servings": "20 Servings",
-    "imageUrl": "01517712-34ff-4520-aeb5-ef78b66cbc5b.jpg"
+    "imageUrl": "01517712-34ff-4520-aeb5-ef78b66cbc5b.jpeg"
   },
   {
     "id": "c5f10f0c-c6ea-4020-9822-335f401c5913",
@@ -3196,7 +3196,7 @@
     "type": "Dinner",
     "cuisine": "Vietnamese",
     "servings": "2 Servings",
-    "imageUrl": "c5f10f0c-c6ea-4020-9822-335f401c5913.jpg"
+    "imageUrl": "c5f10f0c-c6ea-4020-9822-335f401c5913.jpeg"
   },
   {
     "id": "9e40f86e-f201-4442-9a5e-7fcc954b78a7",
@@ -3220,7 +3220,7 @@
     "type": "Dinner",
     "cuisine": "Vietnamese",
     "servings": "2 Servings",
-    "imageUrl": "9e40f86e-f201-4442-9a5e-7fcc954b78a7.jpg"
+    "imageUrl": "9e40f86e-f201-4442-9a5e-7fcc954b78a7.jpeg"
   },
   {
     "id": "ee8347f8-f4fc-40e6-af5c-0a57c5fd26fd",
@@ -3242,7 +3242,7 @@
     "type": "Lunch",
     "cuisine": "Vietnamese",
     "servings": "6 Servings",
-    "imageUrl": "ee8347f8-f4fc-40e6-af5c-0a57c5fd26fd.jpg"
+    "imageUrl": "ee8347f8-f4fc-40e6-af5c-0a57c5fd26fd.jpeg"
   },
   {
     "id": "1e831a54-4269-46b5-8936-32403d482bd7",
@@ -3281,7 +3281,7 @@
     "type": "Lunch",
     "cuisine": "Vietnamese",
     "servings": "6 Servings",
-    "imageUrl": "1e831a54-4269-46b5-8936-32403d482bd7.jpg"
+    "imageUrl": "1e831a54-4269-46b5-8936-32403d482bd7.jpeg"
   },
   {
     "id": "643e0069-53c4-4c91-b477-3e8897f2dd31",
@@ -3305,7 +3305,7 @@
     "type": "Lunch or Dinner",
     "cuisine": "Vietnamese",
     "servings": "6 Servings",
-    "imageUrl": "643e0069-53c4-4c91-b477-3e8897f2dd31.jpg"
+    "imageUrl": "643e0069-53c4-4c91-b477-3e8897f2dd31.jpeg"
   },
   {
     "id": "08598075-d3b0-4aed-a831-e806ece8afbe",
@@ -3352,7 +3352,7 @@
     "type": "Snack",
     "cuisine": "Vietnamese",
     "servings": "1 Batch",
-    "imageUrl": "08598075-d3b0-4aed-a831-e806ece8afbe.jpg"
+    "imageUrl": "08598075-d3b0-4aed-a831-e806ece8afbe.jpeg"
   },
   {
     "id": "0f14675a-533d-4816-991e-1cbfb0d5f457",
@@ -3378,7 +3378,7 @@
     "type": "Snack",
     "cuisine": "Vietnamese",
     "servings": "1 Servings",
-    "imageUrl": "0f14675a-533d-4816-991e-1cbfb0d5f457.jpg"
+    "imageUrl": "0f14675a-533d-4816-991e-1cbfb0d5f457.jpeg"
   },
   {
     "id": "c38d7ea5-4bc0-4ef8-9044-03130e2b3bfc",
@@ -3406,7 +3406,7 @@
     "type": "Lunch",
     "cuisine": "Vietnamese",
     "servings": "8 Servings",
-    "imageUrl": "c38d7ea5-4bc0-4ef8-9044-03130e2b3bfc.jpg"
+    "imageUrl": "c38d7ea5-4bc0-4ef8-9044-03130e2b3bfc.jpeg"
   },
   {
     "id": "acddf28e-8dd2-40e7-939d-0afebe9eb64c",
@@ -3463,7 +3463,7 @@
     "type": "Appetizer",
     "cuisine": "Vietnamese",
     "servings": "16 Servings",
-    "imageUrl": "acddf28e-8dd2-40e7-939d-0afebe9eb64c.jpg"
+    "imageUrl": "acddf28e-8dd2-40e7-939d-0afebe9eb64c.jpeg"
   },
   {
     "id": "0c5f1d89-48dc-4f3b-8dd2-f4503c130196",
@@ -3503,7 +3503,7 @@
     "type": "Dessert",
     "cuisine": "Turkish",
     "servings": "64 Servings",
-    "imageUrl": "0c5f1d89-48dc-4f3b-8dd2-f4503c130196.jpg"
+    "imageUrl": "0c5f1d89-48dc-4f3b-8dd2-f4503c130196.jpeg"
   },
   {
     "id": "135577a6-96ca-4f12-98be-145c495a5277",
@@ -3542,7 +3542,7 @@
     "type": "Main Course",
     "cuisine": "Turkish",
     "servings": "4 Servings",
-    "imageUrl": "135577a6-96ca-4f12-98be-145c495a5277.jpg"
+    "imageUrl": "135577a6-96ca-4f12-98be-145c495a5277.jpeg"
   },
   {
     "id": "e0a9bd65-76db-4793-9c5b-b2784a046899",
@@ -3580,7 +3580,7 @@
     "type": "Dinner",
     "cuisine": "Turkish",
     "servings": "1 Servings",
-    "imageUrl": "e0a9bd65-76db-4793-9c5b-b2784a046899.jpg"
+    "imageUrl": "e0a9bd65-76db-4793-9c5b-b2784a046899.jpeg"
   },
   {
     "id": "47817540-1906-4d94-89fe-721559681a8f",
@@ -3606,7 +3606,7 @@
     "type": "Lunch or Dinner",
     "cuisine": "Turkish",
     "servings": "1 Servings",
-    "imageUrl": "47817540-1906-4d94-89fe-721559681a8f.jpg"
+    "imageUrl": "47817540-1906-4d94-89fe-721559681a8f.jpeg"
   },
   {
     "id": "1c6a1342-795e-471e-8f05-9aade7cd5fa2",
@@ -3651,7 +3651,7 @@
     "type": "Dessert",
     "cuisine": "Turkish",
     "servings": "16 Servings",
-    "imageUrl": "1c6a1342-795e-471e-8f05-9aade7cd5fa2.jpg"
+    "imageUrl": "1c6a1342-795e-471e-8f05-9aade7cd5fa2.jpeg"
   },
   {
     "id": "ad6eb41d-a31c-4a92-bc6e-f5dfe66ec976",
@@ -3685,7 +3685,7 @@
     "type": "Dinner",
     "cuisine": "Turkish",
     "servings": "4 Servings",
-    "imageUrl": "ad6eb41d-a31c-4a92-bc6e-f5dfe66ec976.jpg"
+    "imageUrl": "ad6eb41d-a31c-4a92-bc6e-f5dfe66ec976.jpeg"
   },
   {
     "id": "9f8d0735-6374-4383-8da8-d9dab27c879a",
@@ -3715,7 +3715,7 @@
     "type": "Snack",
     "cuisine": "Turkish",
     "servings": "1 Servings",
-    "imageUrl": "9f8d0735-6374-4383-8da8-d9dab27c879a.jpg"
+    "imageUrl": "9f8d0735-6374-4383-8da8-d9dab27c879a.jpeg"
   },
   {
     "id": "1dfd5a5c-17ed-4ac0-896a-bb2def881a42",
@@ -3743,7 +3743,7 @@
     "type": "Lunch",
     "cuisine": "Turkish",
     "servings": "7 servings",
-    "imageUrl": "1dfd5a5c-17ed-4ac0-896a-bb2def881a42.jpg"
+    "imageUrl": "1dfd5a5c-17ed-4ac0-896a-bb2def881a42.jpeg"
   },
   {
     "id": "b70692df-30e9-4e9d-a0b7-39280d355232",
@@ -3777,7 +3777,7 @@
     "type": "Breakfast",
     "cuisine": "Turkish",
     "servings": "4 Servings",
-    "imageUrl": "b70692df-30e9-4e9d-a0b7-39280d355232.jpg"
+    "imageUrl": "b70692df-30e9-4e9d-a0b7-39280d355232.jpeg"
   },
   {
     "id": "738c6be6-d2fa-4f7c-813b-dc6471972372",
@@ -3811,7 +3811,7 @@
     "type": "Dinner",
     "cuisine": "Turkish",
     "servings": "6 Servings",
-    "imageUrl": "738c6be6-d2fa-4f7c-813b-dc6471972372.jpg"
+    "imageUrl": "738c6be6-d2fa-4f7c-813b-dc6471972372.jpeg"
   },
   {
     "id": "ccdc350b-cc79-422a-9598-74f05c419388",
@@ -3845,7 +3845,7 @@
     "type": "Lunch",
     "cuisine": "Malaysian",
     "servings": "1 Servings",
-    "imageUrl": "ccdc350b-cc79-422a-9598-74f05c419388.jpg"
+    "imageUrl": "ccdc350b-cc79-422a-9598-74f05c419388.jpeg"
   },
   {
     "id": "54593dd9-5604-45a5-960b-89b40a0483fe",
@@ -3900,7 +3900,7 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "8 servings",
-    "imageUrl": "54593dd9-5604-45a5-960b-89b40a0483fe.jpg"
+    "imageUrl": "54593dd9-5604-45a5-960b-89b40a0483fe.jpeg"
   },
   {
     "id": "0cba855a-e80f-49b7-af21-d1003770499e",
@@ -3920,7 +3920,7 @@
     "type": "Cocktail",
     "cuisine": "Malaysian",
     "servings": "1 servings",
-    "imageUrl": "0cba855a-e80f-49b7-af21-d1003770499e.jpg"
+    "imageUrl": "0cba855a-e80f-49b7-af21-d1003770499e.jpeg"
   },
   {
     "id": "ab441205-37e1-4982-962b-99cce144ab6b",
@@ -3954,7 +3954,7 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "4 servings",
-    "imageUrl": "ab441205-37e1-4982-962b-99cce144ab6b.jpg"
+    "imageUrl": "ab441205-37e1-4982-962b-99cce144ab6b.jpeg"
   },
   {
     "id": "f15e7423-9a4f-4d9e-938a-d2c7dea33125",
@@ -3987,7 +3987,7 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "1 servings",
-    "imageUrl": "f15e7423-9a4f-4d9e-938a-d2c7dea33125.jpg"
+    "imageUrl": "f15e7423-9a4f-4d9e-938a-d2c7dea33125.jpeg"
   },
   {
     "id": "7460a02e-3488-4365-a549-cf62b88a608c",
@@ -4012,7 +4012,7 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "1 Servings",
-    "imageUrl": "7460a02e-3488-4365-a549-cf62b88a608c.jpg"
+    "imageUrl": "7460a02e-3488-4365-a549-cf62b88a608c.jpeg"
   },
   {
     "id": "3c846a54-2196-4d1a-9502-4f81d1268869",
@@ -4045,7 +4045,7 @@
     "type": "Condiment",
     "cuisine": "Malaysian",
     "servings": "1 Cup",
-    "imageUrl": "3c846a54-2196-4d1a-9502-4f81d1268869.jpg"
+    "imageUrl": "3c846a54-2196-4d1a-9502-4f81d1268869.jpeg"
   },
   {
     "id": "923faa91-e48b-489a-a0ab-d946a97a2bb9",
@@ -4084,7 +4084,7 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "2 Servings",
-    "imageUrl": "923faa91-e48b-489a-a0ab-d946a97a2bb9.jpg"
+    "imageUrl": "923faa91-e48b-489a-a0ab-d946a97a2bb9.jpeg"
   },
   {
     "id": "63d0a372-8cb9-483a-8b0f-e8dd3a68ceba",
@@ -4123,7 +4123,7 @@
     "type": "Dinner",
     "cuisine": "Malaysian",
     "servings": "2 Servings",
-    "imageUrl": "63d0a372-8cb9-483a-8b0f-e8dd3a68ceba.jpg"
+    "imageUrl": "63d0a372-8cb9-483a-8b0f-e8dd3a68ceba.jpeg"
   },
   {
     "id": "b3e38e03-d50d-4abf-82da-6882bd289eba",
@@ -4167,7 +4167,7 @@
     "type": "Sauce",
     "cuisine": "Malaysian",
     "servings": "1 Cups",
-    "imageUrl": "b3e38e03-d50d-4abf-82da-6882bd289eba.jpg"
+    "imageUrl": "b3e38e03-d50d-4abf-82da-6882bd289eba.jpeg"
   },
   {
     "id": "21fc1e51-c230-4827-b721-92452534d9bd",
@@ -4236,7 +4236,7 @@
     "type": "Appetizer",
     "cuisine": "Brazilian",
     "servings": "50 Servings",
-    "imageUrl": "21fc1e51-c230-4827-b721-92452534d9bd.jpg"
+    "imageUrl": "21fc1e51-c230-4827-b721-92452534d9bd.jpeg"
   },
   {
     "id": "3c7f9b6e-658e-4d3f-881b-d2b8b647ac89",
@@ -4253,7 +4253,7 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "8 Servings",
-    "imageUrl": "3c7f9b6e-658e-4d3f-881b-d2b8b647ac89.jpg"
+    "imageUrl": "3c7f9b6e-658e-4d3f-881b-d2b8b647ac89.jpeg"
   },
   {
     "id": "4446f24a-8628-4c2d-9047-c74719481142",
@@ -4293,7 +4293,7 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "10 Servings",
-    "imageUrl": "4446f24a-8628-4c2d-9047-c74719481142.jpg"
+    "imageUrl": "4446f24a-8628-4c2d-9047-c74719481142.jpeg"
   },
   {
     "id": "6f094125-bf64-4cef-9dfe-958574e74a2b",
@@ -4326,7 +4326,7 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "4 Servings",
-    "imageUrl": "6f094125-bf64-4cef-9dfe-958574e74a2b.jpg"
+    "imageUrl": "6f094125-bf64-4cef-9dfe-958574e74a2b.jpeg"
   },
   {
     "id": "d06f78b4-80b2-4a82-9cc7-1c2dfcf55bb6",
@@ -4353,7 +4353,7 @@
     "type": "Lunch",
     "cuisine": "Brazilian",
     "servings": "1 Servings",
-    "imageUrl": "d06f78b4-80b2-4a82-9cc7-1c2dfcf55bb6.jpg"
+    "imageUrl": "d06f78b4-80b2-4a82-9cc7-1c2dfcf55bb6.jpeg"
   },
   {
     "id": "c545d507-48a9-431f-829d-fb4f19404712",
@@ -4399,7 +4399,7 @@
     "type": "Main Dish",
     "cuisine": "Brazilian",
     "servings": "1 servings",
-    "imageUrl": "c545d507-48a9-431f-829d-fb4f19404712.jpg"
+    "imageUrl": "c545d507-48a9-431f-829d-fb4f19404712.jpeg"
   },
   {
     "id": "475f673b-b372-4e7b-a559-44f1a6b96a36",
@@ -4430,7 +4430,7 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "1 servings",
-    "imageUrl": "475f673b-b372-4e7b-a559-44f1a6b96a36.jpg"
+    "imageUrl": "475f673b-b372-4e7b-a559-44f1a6b96a36.jpeg"
   },
   {
     "id": "bd88ec43-c967-4aa8-b106-b29c4be6ebbe",
@@ -4473,7 +4473,7 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "6 servings",
-    "imageUrl": "bd88ec43-c967-4aa8-b106-b29c4be6ebbe.jpg"
+    "imageUrl": "bd88ec43-c967-4aa8-b106-b29c4be6ebbe.jpeg"
   },
   {
     "id": "bdcaaedb-593b-438a-aa2a-686b97d17c80",
@@ -4512,7 +4512,7 @@
     "type": "Dinner",
     "cuisine": "Brazilian",
     "servings": "1 Servings",
-    "imageUrl": "bdcaaedb-593b-438a-aa2a-686b97d17c80.jpg"
+    "imageUrl": "bdcaaedb-593b-438a-aa2a-686b97d17c80.jpeg"
   },
   {
     "id": "ac0d98f9-4020-4244-8369-b16f7eacf22f",
@@ -4541,7 +4541,7 @@
     "type": "Dinner",
     "cuisine": "American",
     "servings": "4 Servings",
-    "imageUrl": "ac0d98f9-4020-4244-8369-b16f7eacf22f.jpg"
+    "imageUrl": "ac0d98f9-4020-4244-8369-b16f7eacf22f.jpeg"
   },
   {
     "id": "3c52f9e9-c419-4d48-b793-7a975111f9fc",
@@ -4566,7 +4566,7 @@
     "type": "Sauce",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "3c52f9e9-c419-4d48-b793-7a975111f9fc.jpg"
+    "imageUrl": "3c52f9e9-c419-4d48-b793-7a975111f9fc.jpeg"
   },
   {
     "id": "9b2f1995-8261-40a1-acab-7c21a3a83c57",
@@ -4604,7 +4604,7 @@
     "type": "Snack",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "9b2f1995-8261-40a1-acab-7c21a3a83c57.jpg"
+    "imageUrl": "9b2f1995-8261-40a1-acab-7c21a3a83c57.jpeg"
   },
   {
     "id": "24869267-6821-4b22-ac69-f1059400a459",
@@ -4631,7 +4631,7 @@
     "type": "Appetizer",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "24869267-6821-4b22-ac69-f1059400a459.jpg"
+    "imageUrl": "24869267-6821-4b22-ac69-f1059400a459.jpeg"
   },
   {
     "id": "de986a8f-65a0-4f1e-8c6f-6dc3c8c6790f",
@@ -4677,7 +4677,7 @@
     "type": "Appetizer",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "de986a8f-65a0-4f1e-8c6f-6dc3c8c6790f.jpg"
+    "imageUrl": "de986a8f-65a0-4f1e-8c6f-6dc3c8c6790f.jpeg"
   },
   {
     "id": "a5989bab-d6c0-479c-9bfa-c2283fa49e08",
@@ -4701,7 +4701,7 @@
     "type": "Snack",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "a5989bab-d6c0-479c-9bfa-c2283fa49e08.jpg"
+    "imageUrl": "a5989bab-d6c0-479c-9bfa-c2283fa49e08.jpeg"
   },
   {
     "id": "5f0614a5-830d-41da-b0d6-e3d5462cb59f",
@@ -4728,7 +4728,7 @@
     "type": "Condiment",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "5f0614a5-830d-41da-b0d6-e3d5462cb59f.jpg"
+    "imageUrl": "5f0614a5-830d-41da-b0d6-e3d5462cb59f.jpeg"
   },
   {
     "id": "78581aba-f37a-4c50-a692-179100b2046d",
@@ -4759,7 +4759,7 @@
     "type": "Sauce",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "78581aba-f37a-4c50-a692-179100b2046d.jpg"
+    "imageUrl": "78581aba-f37a-4c50-a692-179100b2046d.jpeg"
   },
   {
     "id": "e184c1a8-c45d-427c-8e67-fe7bd6d0d7a7",
@@ -4787,7 +4787,7 @@
     "type": "Snack",
     "cuisine": "American",
     "servings": "4 servings",
-    "imageUrl": "e184c1a8-c45d-427c-8e67-fe7bd6d0d7a7.jpg"
+    "imageUrl": "e184c1a8-c45d-427c-8e67-fe7bd6d0d7a7.jpeg"
   },
   {
     "id": "dcd8387a-d6ef-4154-b2dd-d97d774b73a1",
@@ -4809,6 +4809,6 @@
     "type": "Lunch",
     "cuisine": "American",
     "servings": "4 Wraps",
-    "imageUrl": "dcd8387a-d6ef-4154-b2dd-d97d774b73a1.jpg"
+    "imageUrl": "dcd8387a-d6ef-4154-b2dd-d97d774b73a1.jpeg"
   }
 ]

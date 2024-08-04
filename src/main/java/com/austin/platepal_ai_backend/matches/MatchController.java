@@ -5,10 +5,7 @@ import com.austin.platepal_ai_backend.conversations.ConversationRepository;
 import com.austin.platepal_ai_backend.recipes.Recipe;
 import com.austin.platepal_ai_backend.recipes.RecipeRepository;
 import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
 import java.util.ArrayList;
@@ -23,7 +20,8 @@ public class MatchController {
     private final RecipeRepository recipeRepository;
     private final MatchRepository matchRepository;
 
-    public MatchController(MatchRepository matchRepository, ConversationRepository conversationRepository, RecipeRepository recipeRepository) {
+    public MatchController(MatchRepository matchRepository, ConversationRepository conversationRepository,
+                           RecipeRepository recipeRepository) {
         this.conversationRepository = conversationRepository;
         this.recipeRepository = recipeRepository;
         this.matchRepository = matchRepository;
@@ -31,6 +29,7 @@ public class MatchController {
 
     public record CreateMatchRequest(String recipeId) {}
 
+    @CrossOrigin(origins = "*")
     @PostMapping("/matches")
     public Match createMatch(@RequestBody CreateMatchRequest request) {
         Recipe recipe = recipeRepository.findById(request.recipeId())
@@ -58,6 +57,7 @@ public class MatchController {
         return match;
     }
 
+    @CrossOrigin(origins = "*")
     @GetMapping("/matches")
     public List<Match> getAllMatches() {
         return matchRepository.findAll();

@@ -1,5 +1,7 @@
 package com.austin.platepal_ai_backend;
 
+import com.austin.platepal_ai_backend.conversations.ConversationRepository;
+import com.austin.platepal_ai_backend.matches.MatchRepository;
 import com.austin.platepal_ai_backend.recipes.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -13,7 +15,13 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	private RecipeRepository recipeRepository;
 
 	@Autowired
+	private MatchRepository matchRepository;
+
+	@Autowired
 	private RecipeCreationService recipeCreationService;
+
+	@Autowired
+	private ConversationRepository conversationRepository;
 
 	public static void main(String[] args) {
 
@@ -21,5 +29,12 @@ public class PlatepalAiBackendApplication implements CommandLineRunner {
 	}
 
 	public void run(String... args) {
+		clearAllData();
+//		this.recipeCreationService.saveRecipesToDB();
+	}
+
+	private void clearAllData(){
+		matchRepository.deleteAll();
+		conversationRepository.deleteAll();
 	}
 }
